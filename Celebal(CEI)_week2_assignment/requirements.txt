@@ -1,0 +1,6 @@
+jupyter
+pandas>=1.0
+numpy
+sqlalchemy
+ipykernel
+openpyxl

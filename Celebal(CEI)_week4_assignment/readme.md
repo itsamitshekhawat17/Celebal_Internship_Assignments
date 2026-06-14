@@ -1,6 +1,7 @@
 # Celebal (CEI) Week 4 Assignment
 
 This folder contains the Week 4 Azure Data Engineering assignment materials.
+Open `assignment.ipynb` to view.
 
 ## Contents
 

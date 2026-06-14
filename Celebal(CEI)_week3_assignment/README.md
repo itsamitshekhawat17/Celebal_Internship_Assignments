@@ -3,7 +3,7 @@
 This folder contains the Week 3 assignment materials.
 
 Contents
-- `assignment3_first_ques.ipynb` — main Jupyter notebook for the assignment
+- `assignment3.ipynb` — main Jupyter notebook for the assignment
 - `data/Sample - Superstore.csv` — dataset used in the notebook
 
 How to run

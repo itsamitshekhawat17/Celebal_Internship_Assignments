@@ -10,6 +10,6 @@ This folder contains the Week 4 Azure Data Engineering assignment materials.
 
 - `screenshots/` — contains Azure Portal, Storage Account, Blob Container, Azure Data Factory, pipeline, and monitoring screenshots
 
-- `summary_report.docx` — brief summary and key insights of the assignment
+- `summary_report.docx` — brief summary and key insights of the assignments
 
 - `README.md` — project overview and execution details

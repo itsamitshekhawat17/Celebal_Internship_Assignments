@@ -2,6 +2,8 @@
 
 This folder contains the Week 4 Azure Data Engineering assignment materials.
 
+Open `assignment.ipynb` to view.
+
 ## Contents
 
 - `assignment.ipynb` — main Jupyter notebook containing complete Azure Data Factory implementation, theory, screenshots, and pipeline execution

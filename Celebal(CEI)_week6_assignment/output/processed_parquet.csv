@@ -1,0 +1,1286 @@
+Order ID,Customer Name,Region,Category,Product Name,Quantity,Total Sales,Net Profit,Sales with GST
+10002,Advik Desai,North,Groceries,Rice Nemo,1,33732.0,6299.66,39803.759999999995
+10008,Misha Dua,North,Books,Biography Vel,1,14296.5,1289.03,16869.87
+10009,Arhaan Vala,North,Groceries,Spices Expedita,1,32667.2,3700.89,38547.296
+10011,Divyansh Thaman,North,Kitchen,Cookware Set Doloremque,2,17217.6,4139.82,20316.767999999996
+10013,Anika Khanna,North,Home Decor,Vase Ratione,1,51253.45,6826.05,60479.070999999996
+10015,Anay Grewal,North,Kitchen,Juicer Debitis,2,29343.6,5535.44,34625.448
+10022,Kashvi Ratti,North,Groceries,Wheat Natus,5,113738.5,27267.31,134211.43
+10025,Lakshay Ramakrishnan,North,Electronics,Headphones Itaque,5,96224.0,20551.56,113544.31999999999
+10027,Kimaya Rege,North,Beauty,Foundation Illo,1,8276.0,537.47,9765.68
+10029,Kavya Bhatnagar,North,Toys,RC Car Amet,2,107336.0,22034.77,126656.48
+10030,Adira Seshadri,North,Groceries,Sugar Excepturi,5,337675.25,80309.87,398456.795
+10032,Bhamini Kuruvilla,North,Sports,Cricket Bat Voluptatum,4,291243.4,40522.22,343667.212
+10038,Arhaan Gole,North,Sports,Yoga Mat Quaerat,4,129671.2,8392.19,153012.01599999997
+10040,Taran Kala,North,Kitchen,Refrigerator Libero,5,40959.0,7785.75,48331.619999999995
+10042,Lavanya Tata,North,Toys,Doll Laborum,5,273405.25,26969.18,322618.195
+10047,Advik Sule,North,Beauty,Perfume Quisquam,3,150776.1,23835.95,177915.798
+10049,Nirvaan Ben,North,Toys,Puzzle Dolorem,1,63750.6,4232.48,75225.708
+10056,Alisha Sampath,North,Furniture,Bed Molestias,5,212310.0,11609.02,250525.8
+10066,Purab Batta,North,Kitchen,Juicer Vero,2,69994.0,11129.92,82592.92
+10073,Drishya Korpal,North,Home Decor,Cushion Quis,1,33613.25,4294.42,39663.634999999995
+10075,Neysa Ganguly,North,Toys,Action Figure Placeat,1,20828.0,2957.26,24577.039999999997
+10077,Shalv Subramaniam,North,Kitchen,Cookware Set Libero,4,275673.6,39540.52,325294.84799999994
+10088,Baiju Dube,North,Sports,Tennis Racket Aperiam,5,187425.5,44132.79,221162.09
+10092,Mamooty Mannan,North,Electronics,Camera Ipsa,1,62529.4,13309.3,73784.692
+10100,Arnav Badami,North,Electronics,Mobile Harum,3,201636.0,41541.42,237930.47999999998
+10105,Ela Srivastava,North,Home Decor,Lamp Pariatur,4,208549.2,40557.88,246088.056
+10109,Parinaaz Luthra,North,Furniture,Bed Officiis,1,40468.5,3617.94,47752.829999999994
+10111,Rasha Bansal,North,Electronics,Camera Dignissimos,2,54538.2,10554.74,64355.075999999994
+10112,Alisha Amble,North,Kitchen,Microwave Vero,2,71352.0,5019.37,84195.36
+10123,Heer Lata,North,Groceries,Spices Non,4,253683.2,28531.58,299346.176
+10124,Jiya Tandon,North,Clothing,Shoes Recusandae,3,52972.8,2832.75,62507.904
+10125,Divyansh Kale,North,Kitchen,Juicer Deleniti,1,51998.75,10749.96,61358.524999999994
+10127,Mehul Magar,North,Groceries,Oil Laboriosam,3,54820.8,8867.14,64688.544
+10129,Dhanuk Dhar,North,Furniture,Table Placeat,1,24144.3,4041.1,28490.273999999998
+10134,Shanaya Kala,North,Furniture,Sofa Nulla,1,67413.5,6655.67,79547.93
+10142,Yuvraj  Bhardwaj,North,Electronics,Mobile Ea,3,77892.0,7594.54,91912.56
+10148,Shaan Sehgal,North,Kitchen,Mixer Grinder Porro,1,61952.0,5189.49,73103.36
+10151,Fateh Tripathi,North,Toys,Puzzle Repellendus,4,255584.2,24050.17,301589.35599999997
+10153,Tiya Mani,North,Kitchen,Microwave Officiis,3,26532.0,3837.38,31307.76
+10155,Ritvik Vyas,North,Home Decor,Clock Itaque,2,49451.3,8546.38,58352.534
+10158,Ela Chakraborty,North,Toys,RC Car In,1,54312.0,10936.17,64088.159999999996
+10165,Shayak Sekhon,North,Home Decor,Cushion Quasi,4,270461.2,51178.34,319144.216
+10170,Inaaya  Walla,North,Sports,Tennis Racket Doloremque,5,104535.0,22068.31,123351.29999999999
+10172,Uthkarsh Grewal,North,Kitchen,Mixer Grinder Officia,3,40274.7,4036.0,47524.14599999999
+10176,Ritvik Agarwal,North,Beauty,Face Cream Id,5,90019.25,4561.6,106222.715
+10177,Yasmin Sachdeva,North,Electronics,Camera At,2,80742.0,17592.37,95275.56
+10186,Ritvik Shah,North,Sports,Cricket Bat Delectus,4,139745.0,17301.9,164899.1
+10189,Lakshay Kari,North,Furniture,Chair Veniam,4,122288.4,16649.69,144300.31199999998
+10195,Lagan Walla,North,Furniture,Sofa Voluptas,4,92333.8,8406.91,108953.88399999999
+10200,Yakshit Tank,North,Beauty,Face Cream Necessitatibus,5,203480.0,18437.07,240106.4
+10203,Baiju Barman,North,Toys,Doll Soluta,2,75977.2,11786.61,89653.09599999999
+10218,Fateh Shroff,North,Sports,Tennis Racket Rem,5,159880.0,13769.85,188658.4
+10219,Piya Korpal,North,Electronics,Headphones Recusandae,4,69008.4,15768.95,81429.91199999998
+10227,Priyansh Gour,North,Groceries,Rice Ullam,5,295357.5,58308.1,348521.85
+10228,Shray Dugar,North,Groceries,Spices Cum,3,47052.9,10506.97,55522.422
+10232,Shaan Seth,North,Home Decor,Wall Art Earum,1,37200.0,7575.46,43896.0
+10252,Charvi Shenoy,North,Toys,Doll Assumenda,2,119981.2,23234.02,141577.816
+10256,Nirvi Keer,North,Electronics,Headphones Deleniti,3,10023.45,1456.11,11827.671
+10258,Hazel Hayre,North,Home Decor,Vase Laboriosam,5,324859.5,53183.45,383334.20999999996
+10259,Ritvik Mangat,North,Clothing,Accessories Iure,1,56853.7,9759.16,67087.366
+10263,Bhavin Tara,North,Toys,Action Figure Beatae,3,136379.7,20913.92,160928.046
+10268,Siya Chandra,North,Kitchen,Microwave Eius,2,17479.8,2640.87,20626.163999999997
+10277,Alia Ravi,North,Beauty,Foundation Doloremque,4,236819.8,40372.4,279447.36399999994
+10287,Anay Goswami,North,Electronics,Mobile Beatae,1,18079.45,3429.94,21333.751
+10289,Sahil Saxena,North,Electronics,Camera Quasi,4,68889.6,11105.93,81289.728
+10295,Shalv Lad,North,Furniture,Chair Assumenda,2,149425.5,16809.48,176322.09
+10298,Pari Vohra,North,Books,Fiction Rem,5,116016.5,26646.97,136899.47
+10300,Keya Borah,North,Electronics,Camera Placeat,5,155600.5,33651.01,183608.59
+10303,Stuvan Hayer,North,Furniture,Bed Optio,5,203232.0,18444.62,239813.75999999998
+10306,Shalv Ahluwalia,North,Toys,RC Car Nobis,5,178886.75,33710.88,211086.365
+10308,Piya Yadav,North,Furniture,Sofa Temporibus,5,65178.0,14017.38,76910.04
+10310,Tiya Bedi,North,Furniture,Bed Aspernatur,1,58351.85,7117.79,68855.18299999999
+10314,Adira Dhingra,North,Beauty,Perfume Mollitia,5,352555.0,50630.69,416014.89999999997
+10315,Saira Chacko,North,Books,Comics Reprehenderit,5,121954.5,16875.23,143906.31
+10320,Gokul Kari,North,Groceries,Wheat Facere,1,79212.0,6199.67,93470.15999999999
+10321,Veer Sood,North,Furniture,Chair Odit,3,71349.0,15172.76,84191.81999999999
+10329,Dhanuk Ramachandran,North,Clothing,Kids Wear Pariatur,1,5141.0,929.63,6066.38
+10333,Indrajit Kaul,North,Books,Fiction Sunt,5,243252.0,34303.11,287037.36
+10351,Samaira Goel,North,Sports,Football Iusto,2,139236.0,30309.19,164298.47999999998
+10355,Onkar Sunder,North,Groceries,Oil Quibusdam,4,40352.0,7659.18,47615.36
+10356,Yasmin Baral,North,Home Decor,Cushion Consequatur,1,31347.9,4061.3,36990.522
+10365,Mamooty Vora,North,Groceries,Wheat Animi,3,112462.65,21743.77,132705.927
+10368,Ela Chandra,North,Home Decor,Clock Earum,5,111222.5,9145.67,131242.55
+10372,Suhana Sunder,North,Electronics,Laptop Deserunt,1,11208.0,2672.37,13225.439999999999
+10380,Ranbir Khalsa,North,Beauty,Shampoo Molestiae,2,103464.0,11392.29,122087.51999999999
+10381,Darshit Upadhyay,North,Furniture,Bed Recusandae,2,42058.4,7357.3,49628.912
+10382,Ayesha Sarna,North,Furniture,Bed Veritatis,1,65196.6,7225.16,76931.988
+10384,Samar Jayaraman,North,Furniture,Bed Illum,4,137560.0,18865.74,162320.8
+10385,Seher Lall,North,Sports,Cricket Bat Eligendi,3,91776.0,19045.63,108295.68
+10389,Nitara Char,North,Toys,Board Game Impedit,1,40367.35,7957.7,47633.473
+10407,Jiya Banerjee,North,Kitchen,Refrigerator Facere,1,26874.45,1408.57,31711.851
+10412,Sumer Bhandari,North,Clothing,Kids Wear Reprehenderit,5,261839.0,41134.24,308970.01999999996
+10416,Faiyaz Chada,North,Books,Biography Facilis,1,70674.3,17235.76,83395.674
+10417,Azad Bhardwaj,North,Furniture,Cabinet Temporibus,3,123033.6,27145.18,145179.648
+10419,Sana Borde,North,Clothing,Kids Wear Accusamus,5,283394.5,63463.71,334405.51
+10434,Dhanuk Soni,North,Sports,Cricket Bat Totam,2,159698.0,38482.39,188443.63999999998
+10435,Indrajit Wason,North,Clothing,Women's Wear Non,3,112295.7,26273.46,132508.92599999998
+10436,Hazel Kade,North,Toys,Puzzle Tempore,1,15455.7,3606.43,18237.726
+10444,Hunar Bedi,North,Sports,Tennis Racket Placeat,4,166433.4,32499.26,196391.41199999998
+10452,Siya Thaker,North,Sports,Tennis Racket Illo,4,243113.6,37085.57,286874.048
+10455,Sumer Vasa,North,Sports,Yoga Mat Distinctio,2,15075.2,2185.72,17788.736
+10458,Reyansh Handa,North,Electronics,Mobile Nihil,4,127944.0,17284.96,150973.91999999998
+10463,Vanya Upadhyay,North,Electronics,Mobile Quo,5,82570.5,15016.28,97433.18999999999
+10465,Hridaan Dyal,North,Kitchen,Cookware Set Repellat,4,70579.2,8812.38,83283.45599999999
+10467,Kiaan Bhat,North,Groceries,Sugar Fugit,4,186052.0,21722.39,219541.36
+10468,Urvi Vora,North,Electronics,Laptop Magni,3,183584.7,12294.89,216629.946
+10470,Aradhya Jayaraman,North,Clothing,Men's Wear Explicabo,5,142240.0,33226.84,167843.19999999998
+10477,Kavya Kade,North,Kitchen,Microwave Cumque,1,60344.0,3392.64,71205.92
+10479,Mamooty Boase,North,Books,Biography Eaque,1,43784.35,2675.16,51665.532999999996
+10480,Zain Hari,North,Clothing,Accessories Repellendus,5,353172.0,60835.67,416742.95999999996
+10481,Raghav Hegde,North,Books,Non-Fiction Architecto,3,88788.45,13087.72,104770.37099999998
+10483,Aarav Bal,North,Books,Comics Eos,2,80529.0,6489.76,95024.22
+10487,Suhana Sheth,North,Books,Non-Fiction Optio,4,59810.4,12464.49,70576.272
+10504,Dhruv Aurora,North,Kitchen,Refrigerator Impedit,1,71520.0,9228.81,84393.59999999999
+10505,Mahika Bail,North,Clothing,Kids Wear Distinctio,4,241362.0,46924.56,284807.16
+10507,Parinaaz Bhandari,North,Electronics,Mobile Nulla,5,250101.0,15998.66,295119.18
+10509,Shaan Master,North,Electronics,Camera Eius,4,74924.0,17324.15,88410.31999999999
+10513,Parinaaz Rama,North,Toys,RC Car Illo,3,156367.2,11129.02,184513.296
+10520,Sumer Goda,North,Home Decor,Clock Rerum,2,59007.6,4037.99,69628.968
+10521,Akarsh Balan,North,Groceries,Wheat Voluptatem,5,83244.0,8272.34,98227.92
+10523,Bhamini Gulati,North,Clothing,Kids Wear Quidem,5,184491.0,32778.89,217699.37999999998
+10525,Alia Suri,North,Clothing,Kids Wear Voluptatum,2,125893.5,12613.24,148554.33
+10526,Raghav Sachdeva,North,Sports,Football Deleniti,4,142130.2,8563.29,167713.636
+10527,Zain Sarkar,North,Kitchen,Refrigerator Laboriosam,2,119124.0,11694.87,140566.32
+10530,Aayush Sood,North,Kitchen,Cookware Set Nulla,1,44726.4,9396.33,52777.152
+10535,Miraya Aurora,North,Clothing,Shoes Autem,5,51672.0,11810.45,60972.96
+10541,Shanaya Gokhale,North,Sports,Football Dolorem,3,179721.0,40380.73,212070.78
+10544,Akarsh Chacko,North,Kitchen,Cookware Set Minus,1,34273.8,2233.56,40443.084
+10548,Romil Chana,North,Books,Fiction Dicta,2,82892.0,14454.55,97812.56
+10554,Eva Khatri,North,Kitchen,Juicer Esse,3,2513.7,535.45,2966.1659999999997
+10556,Aaryahi Madan,North,Groceries,Oil Pariatur,4,244425.6,57853.1,288422.208
+10569,Vritika Cherian,North,Toys,Board Game Sed,1,67727.7,8682.4,79918.68599999999
+10572,Raghav Kari,North,Kitchen,Mixer Grinder Illo,5,10106.5,2266.82,11925.67
+10573,Saanvi Gulati,North,Books,Fiction Cumque,3,130779.0,24348.15,154319.22
+10577,Rati Bawa,North,Furniture,Table Excepturi,2,131151.3,8562.53,154758.53399999999
+10580,Samiha Bhagat,North,Books,Textbook Dolore,4,313508.0,31018.89,369939.44
+10585,Fateh Maharaj,North,Furniture,Cabinet Quos,2,10965.0,1855.69,12938.699999999999
+10586,Manikya Chacko,North,Sports,Dumbbells Accusamus,3,76677.3,15749.79,90479.21399999999
+10588,Mishti Grover,North,Books,Textbook Ut,2,96575.1,6508.16,113958.618
+10593,Mamooty Kapur,North,Electronics,Laptop Voluptas,3,26325.0,5599.31,31063.5
+10597,Khushi Kale,North,Clothing,Men's Wear Facere,4,94559.2,8199.84,111579.85599999999
+10599,Aaina Raval,North,Home Decor,Lamp Consequatur,2,101161.7,8121.41,119370.806
+10600,Ishita Choudhary,North,Kitchen,Cookware Set Fugit,5,242564.5,17022.51,286226.11
+10602,Kanav Suresh,North,Furniture,Chair Assumenda,4,96892.8,14303.18,114333.504
+10603,Anay Bhakta,North,Electronics,Camera Sit,5,86302.75,16364.98,101837.245
+10607,Veer Sule,North,Toys,Action Figure Corporis,5,117605.0,22118.89,138773.9
+10610,Vaibhav Viswanathan,North,Furniture,Cabinet In,5,214110.0,52461.29,252649.8
+10612,Fateh Iyengar,North,Groceries,Oil Natus,5,306705.0,54809.56,361911.89999999997
+10614,Urvi Krishnan,North,Kitchen,Refrigerator Temporibus,1,60307.5,3766.9,71162.84999999999
+10619,Divij Gulati,North,Furniture,Bed Distinctio,1,8844.5,502.84,10436.51
+10624,Aarna Khare,North,Groceries,Spices Dolor,1,39768.0,5767.62,46926.24
+10629,Indranil Kakar,North,Furniture,Bed Sapiente,1,1898.05,439.4,2239.6989999999996
+10633,Vedika Atwal,North,Sports,Cricket Bat Labore,4,133235.6,32120.29,157218.008
+10643,Abram Balasubramanian,North,Toys,RC Car Necessitatibus,1,5527.8,923.99,6522.804
+10644,Diya Sagar,North,Clothing,Accessories Sit,5,348222.5,24671.88,410902.55
+10647,Rhea Sabharwal,North,Toys,Action Figure Molestias,5,272612.0,18472.82,321682.16
+10648,Lavanya Desai,North,Books,Fiction Consequatur,5,101957.5,5116.45,120309.84999999999
+10652,Vedika Johal,North,Toys,Doll Quaerat,4,127828.2,22607.99,150837.27599999998
+10656,Anika Thaker,North,Electronics,Camera Veritatis,5,243212.0,48161.52,286990.16
+10657,Sumer Lanka,North,Furniture,Bed Eveniet,5,64765.75,6005.61,76423.58499999999
+10658,Nehmat Rattan,North,Electronics,Mobile Adipisci,5,99849.5,11088.18,117822.40999999999
+10660,Fateh Sahota,North,Beauty,Foundation Nostrum,4,192607.2,44323.62,227276.496
+10664,Zain Mani,North,Clothing,Shoes Doloremque,4,182130.2,30387.53,214913.636
+10666,Ojas Bhalla,North,Books,Fiction Blanditiis,3,28857.6,4466.64,34051.96799999999
+10669,Eshani Chana,North,Groceries,Rice Molestiae,4,236648.8,13046.37,279245.584
+10670,Aradhya Ganguly,North,Electronics,Camera Provident,3,78622.95,19128.29,92775.08099999999
+10678,Keya Kalla,North,Groceries,Spices Inventore,3,174627.0,29134.83,206059.86
+10680,Kanav Gaba,North,Furniture,Chair Unde,2,138358.8,30204.0,163263.384
+10681,Riaan Korpal,North,Books,Comics Eveniet,2,111412.8,22664.98,131467.104
+10686,Piya Ranganathan,North,Beauty,Shampoo Voluptate,5,252908.0,19686.13,298431.44
+10688,Kiaan Desai,North,Clothing,Women's Wear Eos,4,215186.4,40621.43,253919.952
+10693,Umang Shanker,North,Toys,Puzzle Dignissimos,5,205776.0,38038.66,242815.68
+10695,Devansh Rao,North,Kitchen,Cookware Set Ab,2,103406.4,7841.37,122019.55199999998
+10696,Samarth Toor,North,Books,Non-Fiction Ut,2,136630.9,26339.48,161224.46199999997
+10705,Anika Bhattacharyya,North,Home Decor,Wall Art Saepe,3,20854.8,3448.12,24608.663999999997
+10711,Vanya Sachdeva,North,Sports,Tennis Racket Quae,3,53443.8,8011.06,63063.684
+10713,Vivaan Suresh,North,Beauty,Face Cream Sint,5,88933.5,9232.05,104941.53
+10715,Vritika Sachar,North,Beauty,Lipstick Tempora,1,18558.4,2110.66,21898.912
+10723,Diya Borah,North,Furniture,Bed Dolor,5,232669.25,52172.98,274549.71499999997
+10727,Seher Chana,North,Electronics,Camera Vitae,1,37356.8,9098.45,44081.024
+10728,Nirvaan Dhillon,North,Beauty,Shampoo Blanditiis,1,33842.8,2891.98,39934.504
+10731,Aradhya Buch,North,Beauty,Shampoo Distinctio,3,58185.9,9037.45,68659.362
+10733,Divyansh Desai,North,Clothing,Women's Wear Delectus,1,72180.05,12083.51,85172.459
+10735,Anahi Vig,North,Books,Non-Fiction Recusandae,2,40734.4,3772.6,48066.592
+10736,Yasmin Kaur,North,Groceries,Wheat At,1,53985.65,8783.57,63703.066999999995
+10737,Arhaan Bansal,North,Groceries,Sugar Voluptates,4,179254.4,18805.72,211520.19199999998
+10743,Lagan Chanda,North,Books,Biography Occaecati,5,94900.5,11152.81,111982.59
+10744,Aarush Salvi,North,Beauty,Lipstick Tempore,1,53116.0,8171.34,62676.88
+10748,Raghav Kaur,North,Groceries,Wheat Quia,3,174264.0,16186.32,205631.52
+10751,Kaira Mall,North,Clothing,Kids Wear Mollitia,5,345000.0,35733.6,407100.0
+10764,Lakshit Kar,North,Clothing,Men's Wear Ea,3,138662.4,9147.61,163621.63199999998
+10767,Mannat Raju,North,Clothing,Men's Wear Recusandae,3,10648.8,1935.99,12565.583999999999
+10773,Madhup Sahni,North,Beauty,Lipstick Reprehenderit,5,8863.5,919.86,10458.93
+10774,Tarini Thaman,North,Sports,Yoga Mat Quidem,4,198934.4,32045.97,234742.59199999998
+10775,Eva Jhaveri,North,Clothing,Women's Wear Corporis,3,60854.4,5830.96,71808.192
+10776,Vanya Dhar,North,Home Decor,Clock Qui,4,213670.4,21770.49,252131.072
+10778,Aaryahi Babu,North,Groceries,Rice Ex,4,156810.8,34043.45,185036.74399999998
+10780,Seher Balasubramanian,North,Home Decor,Wall Art Dolores,5,73660.5,14686.84,86919.39
+10784,Reyansh Dubey,North,Groceries,Oil Recusandae,1,20292.0,3546.66,23944.559999999998
+10791,Eva Lalla,North,Beauty,Lipstick Deserunt,1,60253.95,8228.46,71099.661
+10796,Rasha Yadav,North,Furniture,Sofa Deleniti,1,6379.25,1079.14,7527.514999999999
+10798,Kiara Bhatia,North,Clothing,Kids Wear Dolorem,1,8115.8,773.53,9576.644
+10803,Kaira Gaba,North,Beauty,Lipstick Eum,4,233107.2,55240.36,275066.496
+10807,Tushar Gara,North,Electronics,Smartwatch Adipisci,1,46532.9,5585.85,54908.822
+10808,Eva Sarma,North,Sports,Football Fugiat,1,7634.7,1420.66,9008.946
+10810,Aarna Tailor,North,Groceries,Rice Corporis,5,99080.25,24755.56,116914.69499999999
+10813,Saanvi Soman,North,Electronics,Camera Quisquam,3,29043.9,4511.66,34271.802
+10822,Samarth Sagar,North,Furniture,Chair Occaecati,3,186270.3,33629.15,219798.95399999997
+10823,Adira Contractor,North,Sports,Yoga Mat Amet,2,62772.0,13881.9,74070.95999999999
+10830,Yashvi Gade,North,Beauty,Foundation Nisi,3,181773.6,43910.08,214492.848
+10835,Dhanush Jayaraman,North,Toys,Action Figure Possimus,5,209897.75,33204.58,247679.345
+10843,Ehsaan Bhatnagar,North,Groceries,Sugar Vitae,5,283855.25,64522.53,334949.195
+10848,Zara Chander,North,Sports,Tennis Racket Maxime,2,121444.6,26940.85,143304.628
+10849,Vedika Kaur,North,Home Decor,Wall Art Cumque,3,128592.0,25750.65,151738.56
+10859,Indrajit Butala,North,Home Decor,Lamp Suscipit,5,352051.0,41927.76,415420.18
+10863,Dishani Baral,North,Sports,Football Natus,1,32373.9,2879.74,38201.202
+10864,Mehul Chakrabarti,North,Sports,Yoga Mat Eum,1,6458.4,724.54,7620.911999999999
+10869,Aradhya Bansal,North,Books,Biography Odio,4,96696.0,6498.8,114101.28
+10875,Ivan Acharya,North,Groceries,Spices Officia,4,112039.2,22202.54,132206.256
+10876,Badal Chana,North,Toys,Puzzle Saepe,1,22924.45,4044.19,27050.851
+10878,Aniruddh Sarin,North,Groceries,Rice A,5,391910.0,34000.6,462453.8
+10880,Lagan Cherian,North,Furniture,Table Ab,1,21650.0,1194.52,25547.0
+10881,Anvi Sangha,North,Electronics,Laptop Numquam,5,16923.5,2826.72,19969.73
+10884,Anahi Sarin,North,Furniture,Table Ex,2,77064.0,15432.77,90935.51999999999
+10886,Vaibhav Bhalla,North,Sports,Dumbbells Fugiat,2,45873.6,7741.13,54130.848
+10889,Navya Chanda,North,Sports,Tennis Racket Harum,3,38316.0,8371.34,45212.88
+10898,Arnav Ravi,North,Home Decor,Lamp At,1,44614.85,3061.39,52645.522999999994
+10910,Riya Ghose,North,Electronics,Camera Repellendus,5,382185.0,20628.52,450978.3
+10911,Reyansh Sahni,North,Sports,Tennis Racket Consequuntur,3,25641.0,3075.2,30256.379999999997
+10916,Jhanvi Raval,North,Kitchen,Mixer Grinder Incidunt,1,68527.3,4229.23,80862.21399999999
+10923,Hiran Buch,North,Furniture,Bed Iusto,1,63998.1,4593.02,75517.75799999999
+10926,Stuvan Dayal,North,Groceries,Sugar Dolor,1,33125.0,6898.31,39087.5
+10928,Vritika Subramaniam,North,Kitchen,Juicer Blanditiis,5,210280.5,42654.73,248130.99
+10929,Kanav Chaudhari,North,Furniture,Sofa Aut,5,109497.0,12674.21,129206.45999999999
+10934,Taran Singh,North,Kitchen,Cookware Set Praesentium,4,97913.2,19892.34,115537.57599999999
+10938,Hrishita Chana,North,Home Decor,Vase Eveniet,1,28657.6,1832.41,33815.96799999999
+10939,Anya Sarraf,North,Groceries,Oil Nihil,3,172624.8,20223.28,203697.26399999997
+10940,Lavanya Yogi,North,Clothing,Shoes Incidunt,3,100057.8,18468.25,118068.204
+10949,Kiaan Golla,North,Groceries,Spices Officiis,2,69416.1,10821.74,81910.998
+10951,Shanaya Raja,North,Home Decor,Wall Art Eius,4,116686.6,23786.99,137690.188
+10957,Anahi Upadhyay,North,Books,Fiction Quisquam,3,54052.8,3842.98,63782.304
+10960,Aaina Ramaswamy,North,Kitchen,Refrigerator Fuga,5,86202.0,6240.3,101718.36
+10968,Inaaya  Mand,North,Sports,Yoga Mat Et,2,128282.0,19421.47,151372.75999999998
+10976,Kavya Mahal,North,Furniture,Bed Consequuntur,2,111042.3,13068.28,131029.91399999999
+10979,Keya Kunda,North,Sports,Football Hic,4,147564.8,11329.56,174126.46399999998
+10989,Ayesha Srinivas,North,Furniture,Bed Tempora,4,9075.6,1480.11,10709.208
+10996,Umang Iyengar,North,Toys,RC Car Animi,2,22701.2,5387.57,26787.416
+10998,Saira Ratti,North,Clothing,Kids Wear Eveniet,2,60129.0,7808.18,70952.22
+11002,Farhan Kata,North,Groceries,Spices Dolores,1,64034.75,13472.26,75561.00499999999
+11003,Mehul Suri,North,Beauty,Lipstick Molestias,2,82060.8,7654.7,96831.74399999999
+11004,Tarini Ganesan,North,Books,Comics Nesciunt,2,69777.0,5260.27,82336.86
+11011,Neysa Chacko,North,Home Decor,Vase Quia,2,16561.4,3249.54,19542.452
+11015,Adira Tank,North,Kitchen,Cookware Set Ipsum,4,218351.4,27349.58,257654.65199999997
+11017,Vritika Divan,North,Books,Comics Quo,3,193808.55,22075.6,228694.08899999998
+11019,Aarna Anand,North,Beauty,Face Cream Reiciendis,5,147248.0,11285.43,173752.63999999998
+11022,Tejas Jayaraman,North,Kitchen,Microwave Perferendis,5,156618.0,36975.33,184809.24
+11031,Shayak Chaudhary,North,Clothing,Accessories Repellendus,2,112759.3,16441.9,133055.974
+11033,Dhruv Bahl,North,Toys,Action Figure Natus,2,1242.7,114.31,1466.386
+11040,Devansh Walia,North,Sports,Cricket Bat Modi,1,35699.2,4378.39,42125.056
+11054,Farhan Dave,North,Beauty,Perfume Veniam,4,214496.0,13543.77,253105.28
+11056,Suhana Mani,North,Toys,RC Car Ab,4,223760.0,18817.06,264036.8
+11062,Rati Ramaswamy,North,Toys,Puzzle Commodi,4,2456.0,458.44,2898.08
+11074,Aradhya Bassi,North,Groceries,Sugar Recusandae,4,4156.8,431.16,4905.024
+11075,Jivin Lal,North,Books,Textbook Error,1,1238.4,283.82,1461.3120000000001
+11076,Charvi Dora,North,Toys,Action Figure Voluptatem,1,22916.0,1924.59,27040.879999999997
+11078,Emir Batta,North,Sports,Cricket Bat Officiis,3,33180.3,3695.39,39152.754
+11083,Raunak Keer,North,Books,Textbook Placeat,1,48178.0,7140.03,56850.03999999999
+11087,Anahita Chada,North,Home Decor,Vase Et,5,6863.75,1180.7,8099.224999999999
+11088,Indranil Khurana,North,Electronics,Mobile Voluptates,4,244614.4,19458.47,288644.99199999997
+11090,Kismat Tara,North,Furniture,Sofa Praesentium,3,158157.9,25712.93,186626.322
+11095,Jivin Bora,North,Electronics,Mobile Fuga,2,123892.6,7564.37,146193.268
+11101,Nehmat Hegde,North,Electronics,Smartwatch Ipsam,2,100755.6,20731.39,118891.60800000001
+11102,Eva Sahota,North,Groceries,Rice Quas,4,306908.0,43168.59,362151.44
+11110,Darshit Barman,North,Books,Non-Fiction Molestiae,2,52715.2,2862.48,62203.935999999994
+11116,Hridaan Malhotra,North,Books,Textbook Voluptas,3,104555.1,8656.02,123375.018
+11120,Aniruddh Sant,North,Electronics,Laptop Aliquam,1,60813.0,12988.64,71759.34
+11121,Piya Bhandari,North,Furniture,Table Rem,2,41121.3,7523.56,48523.134
+11123,Gatik Boase,North,Toys,RC Car Veritatis,3,36016.8,6971.28,42499.824
+11126,Yakshit Venkataraman,North,Furniture,Sofa Id,3,63919.8,8467.3,75425.364
+11128,Jayan Mani,North,Groceries,Oil Quam,1,2204.05,348.96,2600.779
+11129,Anay Mander,North,Clothing,Women's Wear Quo,1,48581.1,5848.49,57325.698
+11139,Mahika Kaul,North,Clothing,Accessories Facilis,5,313452.0,17200.72,369873.36
+11140,Ishaan Gopal,North,Toys,Action Figure Dicta,2,94601.6,8634.7,111629.888
+11144,Prisha Hayre,North,Clothing,Men's Wear Voluptatibus,5,314068.5,73960.76,370600.82999999996
+11147,Raghav Majumdar,North,Electronics,Smartwatch Fugiat,2,51951.6,9561.42,61302.88799999999
+11148,Renee Wali,North,Sports,Cricket Bat Et,1,12425.05,2530.81,14661.558999999997
+11150,Ahana  Chaudhry,North,Kitchen,Cookware Set Aliquam,3,129021.6,13193.29,152245.488
+11154,Aarav Bahri,North,Clothing,Men's Wear Ullam,3,181929.6,41542.19,214676.92799999999
+11155,Prerak Sahni,North,Electronics,Camera In,4,182707.2,42983.62,215594.496
+11161,Fateh Rama,North,Toys,RC Car Doloremque,2,43644.0,2349.3,51499.92
+11163,Kashvi Chaudry,North,Beauty,Foundation Fugiat,2,20121.0,1752.21,23742.78
+11168,Pihu Bahl,North,Sports,Tennis Racket Recusandae,2,5632.0,1115.4,6645.759999999999
+11169,Amira Varghese,North,Electronics,Camera Cupiditate,4,135017.4,31622.78,159320.53199999998
+11173,Aarush Thakkar,North,Kitchen,Refrigerator Necessitatibus,2,80761.6,12751.87,95298.688
+11178,Shalv Gupta,North,Books,Biography Tenetur,5,199946.5,29876.63,235936.87
+11183,Divij Mallick,North,Kitchen,Mixer Grinder Ullam,3,204681.0,44311.79,241523.58
+11184,Aarush Mall,North,Sports,Tennis Racket Ipsam,4,263574.8,59364.54,311018.26399999997
+11186,Ryan Banik,North,Kitchen,Mixer Grinder Dolorem,2,103652.6,21673.16,122310.068
+11188,Amani Sabharwal,North,Books,Non-Fiction Ipsum,5,288955.0,40433.92,340966.89999999997
+11189,Manikya Tella,North,Books,Textbook Cum,5,102535.5,17979.2,120991.89
+11191,Zoya Aurora,North,Home Decor,Vase Occaecati,5,57703.0,10004.31,68089.54
+11194,Mohanlal Roy,North,Furniture,Table Soluta,2,129953.1,18030.42,153344.658
+11195,Tejas Dara,North,Clothing,Accessories Enim,1,30800.9,3639.22,36345.062
+11197,Ehsaan Talwar,North,Toys,Doll Error,2,115008.0,24997.52,135709.44
+11203,Kabir Srinivasan,North,Furniture,Chair Repellendus,4,49442.4,9561.05,58342.032
+11205,Miraan Chokshi,North,Home Decor,Vase Ducimus,3,9688.8,1864.06,11432.783999999998
+11207,Kiara Sarkar,North,Beauty,Perfume Fugiat,2,61801.6,12862.56,72925.88799999999
+11211,Suhana Bala,North,Kitchen,Cookware Set Commodi,1,10346.45,1096.09,12208.811
+11213,Aradhya Sane,North,Clothing,Kids Wear Harum,1,15395.2,3538.69,18166.336
+11216,Gokul Bora,North,Clothing,Kids Wear Nobis,1,58065.3,6649.68,68517.054
+11222,Shlok Thakkar,North,Furniture,Sofa Sed,3,97131.0,11165.69,114614.57999999999
+11223,Jiya Mammen,North,Furniture,Bed Culpa,1,10814.4,641.61,12760.991999999998
+11225,Kartik Dayal,North,Home Decor,Clock Voluptates,2,68502.6,16746.83,80833.068
+11232,Nirvi Sharma,North,Furniture,Bed Natus,3,159304.8,28378.16,187979.664
+11234,Prerak Jha,North,Books,Biography Sequi,5,338219.0,74570.86,399098.42
+11245,Vedika Tank,North,Sports,Cricket Bat Facilis,4,136688.4,26268.67,161292.31199999998
+11248,Abram Mani,North,Sports,Football Architecto,4,193075.8,18580.58,227829.444
+11249,Rasha Dar,North,Kitchen,Juicer Quis,4,59511.8,4290.49,70223.924
+11253,Divyansh Sarraf,North,Toys,Action Figure Iure,3,111753.75,7213.9,131869.425
+11260,Jhanvi Chaudhuri,North,Furniture,Cabinet Quaerat,3,116459.1,19989.21,137421.738
+11262,Saanvi Konda,North,Home Decor,Cushion Quos,4,1641.6,198.27,1937.0879999999997
+11264,Piya Sura,North,Kitchen,Refrigerator Minima,2,105801.5,24399.43,124845.76999999999
+11266,Pihu Chana,North,Home Decor,Wall Art Reprehenderit,2,36324.8,3116.14,42863.264
+11270,Shaan Dube,North,Sports,Yoga Mat Eaque,1,12432.1,1605.82,14669.877999999999
+11271,Jayant Dugar,North,Furniture,Table Laudantium,5,147440.0,23444.45,173979.19999999998
+11272,Vihaan Salvi,North,Kitchen,Cookware Set Voluptatem,3,73598.1,6355.73,86845.758
+11275,Ojas Chakraborty,North,Groceries,Sugar Quam,1,44724.0,11011.43,52774.32
+11280,Inaaya  Mannan,North,Sports,Cricket Bat Ullam,4,52073.6,6809.53,61446.848
+11288,Stuvan Tiwari,North,Beauty,Lipstick Voluptate,3,87711.6,16777.27,103499.688
+11296,Zaina Sastry,North,Clothing,Men's Wear Voluptates,2,150540.0,31539.13,177637.19999999998
+11298,Shray Seth,North,Sports,Yoga Mat Ipsam,5,110790.0,8082.14,130732.2
+11302,Riaan Malhotra,North,Home Decor,Clock Excepturi,2,59604.0,5941.58,70332.72
+11305,Kavya Sangha,North,Furniture,Cabinet Quo,2,150494.0,27592.81,177582.91999999998
+11308,Vanya Choudhury,North,Beauty,Lipstick Atque,3,111048.0,10218.39,131036.64
+11314,Amani Madan,North,Beauty,Lipstick Amet,1,71998.2,5443.8,84957.87599999999
+11315,Raunak Badami,North,Home Decor,Clock Repellendus,4,187968.0,44491.13,221802.24
+11317,Anvi Sehgal,North,Beauty,Face Cream Voluptatum,5,156028.5,23506.05,184113.63
+11321,Drishya Bahl,North,Sports,Cricket Bat Ratione,4,188732.0,29552.34,222703.75999999998
+11325,Stuvan Krish,North,Beauty,Foundation Excepturi,3,164844.0,38325.73,194515.91999999998
+11327,Vanya Sekhon,North,Books,Comics Nulla,2,115257.8,13502.63,136004.204
+11329,Trisha Dugar,North,Books,Textbook Quae,2,73944.2,14106.37,87254.15599999999
+11332,Krish Subramaniam,North,Groceries,Rice Doloremque,5,74632.0,14566.03,88065.76
+11334,Rhea Savant,North,Beauty,Perfume Minus,3,51004.8,4226.24,60185.664
+11335,Sahil Srivastava,North,Groceries,Wheat Ullam,2,76244.0,17850.18,89967.92
+11336,Inaaya  Zacharia,North,Beauty,Shampoo Voluptatem,3,167598.75,16849.96,197766.525
+11342,Fateh Khanna,North,Beauty,Perfume Itaque,4,236048.0,19600.82,278536.64
+11343,Yuvraj  Madan,North,Toys,RC Car Exercitationem,4,45434.2,9134.44,53612.35599999999
+11348,Siya Hora,North,Furniture,Chair Vero,4,9863.4,1198.77,11638.811999999998
+11351,Vardaniya Master,North,Furniture,Bed Tenetur,4,299560.0,30319.01,353480.8
+11352,Stuvan Apte,North,Furniture,Sofa Tempora,5,333200.0,72215.26,393176.0
+11353,Ranbir Kara,North,Toys,Doll Quae,3,152312.55,8913.05,179728.80899999998
+11358,Jiya Vyas,North,Home Decor,Cushion Et,2,94970.0,12609.38,112064.59999999999
+11359,Abram Chaudhary,North,Sports,Yoga Mat Rerum,1,24437.6,1504.09,28836.368
+11362,Jayan Walla,North,Books,Biography Doloribus,5,244248.0,35178.03,288212.63999999996
+11365,Hunar Dora,North,Groceries,Spices Dolore,2,119878.6,17242.69,141456.748
+11367,Dhanush Karpe,North,Books,Non-Fiction Quo,1,44736.45,10667.21,52789.01099999999
+11370,Badal Din,North,Beauty,Shampoo Cumque,4,1691.0,358.78,1995.3799999999999
+11374,Jivin Sarkar,North,Toys,Doll Amet,5,215780.0,49195.96,254620.4
+11378,Pranay Dash,North,Clothing,Women's Wear Sit,5,373455.0,47947.78,440676.89999999997
+11388,Abram Datta,North,Home Decor,Lamp Nostrum,4,177471.4,28394.16,209416.25199999998
+11389,Anay Gopal,North,Beauty,Lipstick Deserunt,1,25832.35,2886.23,30482.172999999995
+11391,Vanya Bose,North,Toys,RC Car Explicabo,2,27280.8,6486.86,32191.343999999997
+11392,Kimaya Atwal,North,Kitchen,Cookware Set Consequatur,1,4842.0,1158.75,5713.5599999999995
+11393,Jivin Shukla,North,Toys,Puzzle Unde,4,161265.4,9602.02,190293.172
+11401,Biju Chada,North,Sports,Football Saepe,3,3388.65,236.43,3998.607
+11406,Faiyaz Borde,North,Electronics,Laptop Adipisci,1,35556.6,2974.74,41956.78799999999
+11410,Seher Agate,North,Home Decor,Vase Ex,3,187878.0,13928.71,221696.03999999998
+11416,Jayan Dara,North,Sports,Dumbbells Distinctio,3,60736.8,11776.86,71669.424
+11418,Saksham Rana,North,Books,Comics Voluptatibus,3,16358.25,1430.73,19302.735
+11419,Mamooty Wagle,North,Books,Non-Fiction Amet,4,158108.4,23976.18,186567.91199999998
+11420,Hrishita Bhargava,North,Electronics,Mobile Aperiam,5,195399.0,16213.31,230570.81999999998
+11423,Mishti Yogi,North,Sports,Tennis Racket Pariatur,3,119936.7,14181.28,141525.30599999998
+11425,Rati Grewal,North,Books,Fiction Quibusdam,2,78099.2,5054.2,92157.056
+11428,Sahil Raj,North,Home Decor,Wall Art Unde,3,202403.7,48725.77,238836.366
+11433,Lakshit Deo,North,Clothing,Men's Wear Error,3,128577.6,25557.86,151721.568
+11451,Azad Ravel,North,Toys,Puzzle Labore,4,122979.2,20581.59,145115.45599999998
+11452,Manjari Ahuja,North,Clothing,Kids Wear Impedit,3,113121.6,12564.93,133483.488
+11455,Anahi Vala,North,Toys,Action Figure Laudantium,5,55335.0,5950.22,65295.299999999996
+11456,Faiyaz Aggarwal,North,Sports,Tennis Racket Repellendus,2,95412.5,8222.59,112586.75
+11459,Shanaya Bains,North,Home Decor,Cushion Deserunt,5,100686.75,16585.86,118810.36499999999
+11460,Nitara Chatterjee,North,Beauty,Foundation Ipsa,3,109682.4,23826.49,129425.23199999999
+11461,Myra Borra,North,Home Decor,Clock Rerum,2,63974.0,13001.44,75489.31999999999
+11470,Ira Loke,North,Books,Fiction Voluptatibus,3,86230.8,6887.12,101752.344
+11471,Kartik Batta,North,Groceries,Spices Fugit,5,3135.0,447.89,3699.2999999999997
+11472,Parinaaz Sankaran,North,Furniture,Table Ipsa,4,141801.6,31103.35,167325.888
+11473,Aradhya Setty,North,Beauty,Foundation Saepe,4,123422.4,14489.32,145638.43199999997
+11474,Ayesha Grover,North,Toys,Doll Eveniet,4,150425.6,29175.54,177502.20799999998
+11475,Ishita Trivedi,North,Beauty,Shampoo Ullam,2,124858.8,9130.74,147333.384
+11478,Eshani Kari,North,Books,Fiction Quas,2,54092.3,12966.11,63828.914
+11479,Zeeshan Bal,North,Home Decor,Cushion Iure,4,191688.0,17387.5,226191.84
+11480,Navya Bahl,North,Groceries,Spices Totam,3,89459.1,19424.54,105561.738
+11484,Keya Basu,North,Toys,Board Game Hic,3,81067.2,6241.77,95659.29599999999
+11485,Chirag Desai,North,Groceries,Oil Earum,1,13630.0,1198.07,16083.4
+11487,Nishith Vala,North,Clothing,Men's Wear Iure,3,140896.8,27019.18,166258.224
+11491,Vivaan Upadhyay,North,Home Decor,Wall Art Soluta,2,53344.3,11506.05,62946.274
+11492,Myra Anand,North,Furniture,Sofa Molestiae,2,140262.0,18548.38,165509.16
+11504,Jayesh Ganguly,North,Clothing,Women's Wear Placeat,1,67368.6,4446.25,79494.948
+11516,Miraya Hans,North,Groceries,Spices Cumque,4,262238.4,28564.38,309441.31200000003
+11518,Kabir Sandal,North,Beauty,Foundation Libero,2,105139.8,7280.73,124064.96399999999
+11526,Yakshit Dara,North,Kitchen,Cookware Set Possimus,2,124092.8,11165.53,146429.504
+11532,Vanya Shan,North,Clothing,Accessories Deserunt,2,133846.2,22113.85,157938.516
+11535,Pari Kalita,North,Furniture,Chair Dicta,4,163229.0,26318.32,192610.22
+11538,Taimur Talwar,North,Electronics,Headphones Incidunt,5,147385.0,21636.95,173914.3
+11543,Saanvi Seth,North,Toys,Board Game Alias,3,128486.4,31527.42,151613.952
+11544,Veer Luthra,North,Books,Textbook Non,3,143985.75,21968.41,169903.185
+11545,Jivin Chandran,North,Books,Biography Officia,2,123559.2,13468.47,145799.856
+11550,Samarth Khare,North,Books,Comics Eos,5,151915.0,35359.41,179259.69999999998
+11552,Advika Sidhu,North,Home Decor,Vase Quisquam,4,296867.4,35529.65,350303.532
+11554,Lagan Sidhu,North,Kitchen,Cookware Set Optio,1,48522.6,3280.08,57256.668
+11558,Lakshay Kurian,North,Electronics,Mobile Maxime,4,277952.0,62478.5,327983.36
+11559,Arhaan Loyal,North,Groceries,Wheat Provident,1,46565.55,3984.69,54947.349
+11560,Miraya Gera,North,Electronics,Headphones Explicabo,4,108164.2,26474.26,127633.756
+11562,Taran Sahni,North,Sports,Football Natus,5,179430.75,14017.16,211728.28499999997
+11566,Yashvi Dewan,North,Beauty,Foundation Dolorem,5,38907.25,9434.86,45910.555
+11571,Lakshit Salvi,North,Sports,Dumbbells Facere,3,196514.1,25235.58,231886.638
+11572,Indrans Reddy,North,Furniture,Table Voluptas,1,52785.85,7000.08,62287.30299999999
+11574,Anay Sangha,North,Sports,Football A,4,318848.0,36875.17,376240.63999999996
+11576,Navya Sampath,North,Sports,Yoga Mat Facilis,4,283214.0,66074.46,334192.51999999996
+11580,Arnav Karpe,North,Clothing,Accessories Ratione,3,99513.6,18526.87,117426.048
+11581,Azad Viswanathan,North,Electronics,Headphones Aliquid,2,15154.0,2025.72,17881.719999999998
+11582,Lavanya Sabharwal,North,Groceries,Spices Quidem,4,78441.6,11584.72,92561.088
+11587,Taran Dhingra,North,Books,Comics Excepturi,3,165790.8,23145.79,195633.14399999997
+11591,Kanav Hayer,North,Kitchen,Mixer Grinder Quisquam,2,108560.0,21692.52,128100.79999999999
+11592,Samaira Jain,North,Home Decor,Lamp Nostrum,4,172009.6,18485.85,202971.328
+11602,Ishita Bala,North,Beauty,Foundation Dignissimos,4,192984.0,23985.65,227721.12
+11605,Shlok Singhal,North,Groceries,Rice Exercitationem,4,109854.0,11445.83,129627.71999999999
+11607,Kanav Kale,North,Furniture,Chair Voluptatum,4,49024.0,4940.52,57848.32
+11609,Kismat Jaggi,North,Furniture,Cabinet Explicabo,1,76977.0,9755.28,90832.86
+11610,Pihu Shan,North,Books,Comics Dolorem,2,12702.0,924.79,14988.359999999999
+11615,Farhan Yadav,North,Groceries,Wheat Repellat,3,120190.2,19480.82,141824.436
+11620,Raunak Tara,North,Sports,Football Ea,2,139334.4,16926.08,164414.59199999998
+11623,Yasmin Borde,North,Clothing,Men's Wear Quidem,3,162702.75,29052.25,191989.245
+11625,Indrans Lalla,North,Clothing,Men's Wear Eaque,1,61502.0,8436.36,72572.36
+11630,Hiran Rama,North,Beauty,Foundation Assumenda,1,56649.1,10433.92,66845.938
+11631,Shaan Varty,North,Electronics,Smartwatch Veniam,2,144962.0,30909.0,171055.16
+11634,Jayesh Batra,North,Kitchen,Mixer Grinder Alias,1,26313.6,6364.28,31050.047999999995
+11636,Drishya Ahluwalia,North,Clothing,Accessories Error,2,96155.2,18347.64,113463.13599999998
+11639,Zara Sehgal,North,Kitchen,Cookware Set Necessitatibus,1,48242.4,4371.72,56926.032
+11640,Jayant Karnik,North,Toys,Action Figure Aliquam,5,170736.0,35802.53,201468.47999999998
+11641,Gokul Dixit,North,Furniture,Chair Iusto,2,14636.8,3549.47,17271.424
+11642,Romil Sankar,North,Furniture,Bed Numquam,4,212129.4,39302.36,250312.69199999998
+11644,Anahita Sathe,North,Home Decor,Cushion Ratione,1,21994.2,5463.56,25953.156
+11646,Anvi Bawa,North,Groceries,Spices Expedita,1,55914.0,3180.85,65978.51999999999
+11650,Vivaan Biswas,North,Furniture,Chair Aut,2,52803.2,12398.2,62307.77599999999
+11659,Jayant Kothari,North,Books,Fiction Voluptates,5,373915.0,43357.72,441219.69999999995
+11667,Anvi Kalita,North,Toys,RC Car Eius,5,239988.0,46159.38,283185.83999999997
+11669,Yuvaan Thaman,North,Electronics,Headphones Officia,4,250984.8,36369.51,296162.06399999995
+11670,Rasha Buch,North,Electronics,Mobile Nesciunt,2,79316.8,18206.41,93593.824
+11674,Vedika Khalsa,North,Electronics,Laptop Perspiciatis,3,93979.2,17449.47,110895.45599999999
+11678,Ranbir Khatri,North,Home Decor,Clock Quisquam,2,12104.0,2075.98,14282.72
+11684,Anahita Datta,North,Clothing,Kids Wear Eos,2,102839.8,18089.76,121350.96399999999
+11685,Aaryahi Ben,North,Home Decor,Vase Ut,4,223595.8,28225.93,263843.044
+11687,Vivaan Bobal,North,Books,Non-Fiction Reiciendis,4,234604.8,29815.19,276833.664
+11691,Alisha Devi,North,Beauty,Foundation Odit,4,101012.0,6703.33,119194.15999999999
+11693,Purab Dixit,North,Home Decor,Clock Maiores,3,155898.0,11346.78,183959.63999999998
+11701,Mohanlal Sampath,North,Groceries,Rice Nam,5,296664.0,54818.48,350063.51999999996
+11705,Riya Dhawan,North,Electronics,Smartwatch Rerum,3,96681.6,9239.84,114084.288
+11708,Pihu Gopal,North,Electronics,Smartwatch Dolorum,3,10495.2,1731.13,12384.336
+11716,Anahi Bail,North,Kitchen,Cookware Set Ducimus,4,94159.6,7836.83,111108.328
+11717,Baiju Kakar,North,Beauty,Perfume Labore,3,216523.05,30633.55,255497.19899999996
+11723,Samarth Raval,North,Furniture,Cabinet Dignissimos,3,130515.75,22802.44,154008.585
+11728,Mannat Dugar,North,Home Decor,Clock Enim,5,300757.5,47167.33,354893.85
+11732,Samar Sant,North,Sports,Football Qui,3,177063.3,16632.21,208934.694
+11733,Anya Dyal,North,Books,Textbook Debitis,4,253627.2,43553.38,299280.096
+11734,Dishani Sethi,North,Home Decor,Wall Art Amet,4,282877.2,41965.03,333795.096
+11735,Tanya Sha,North,Sports,Tennis Racket Commodi,4,4148.0,1007.41,4894.639999999999
+11737,Madhav Gandhi,North,Books,Biography Nam,3,24638.25,5116.79,29073.135
+11738,Jivin Shah,North,Clothing,Men's Wear Eum,3,95293.8,12177.03,112446.684
+11739,Zeeshan Sule,North,Home Decor,Wall Art Quae,3,63181.35,3552.34,74553.99299999999
+11744,Kimaya Aurora,North,Home Decor,Vase Adipisci,3,96287.4,22651.78,113619.13199999998
+11747,Onkar Bandi,North,Electronics,Smartwatch Illo,4,6956.8,761.33,8209.024
+11750,Manikya Kumer,North,Beauty,Lipstick Facere,4,105429.6,8293.39,124406.928
+11756,Shanaya Sura,North,Electronics,Laptop Reprehenderit,5,6745.0,1631.05,7959.099999999999
+11768,Dhanuk Rama,North,Sports,Yoga Mat Perferendis,2,77499.0,13479.91,91448.81999999999
+11772,Hazel Choudhury,North,Electronics,Laptop Ea,4,74069.6,7416.91,87402.128
+11780,Aradhya Choudhry,North,Furniture,Sofa Quisquam,3,193602.0,40567.6,228450.36
+11781,Shamik Korpal,North,Furniture,Chair Impedit,1,29842.0,2580.21,35213.56
+11784,Anvi Sridhar,North,Books,Fiction Quis,4,259617.2,46078.9,306348.296
+11785,Saira Dyal,North,Clothing,Women's Wear Et,2,70896.8,17618.62,83658.224
+11786,Jayant Khatri,North,Furniture,Sofa Quod,2,25795.8,2741.07,30439.043999999998
+11787,Yasmin Sur,North,Electronics,Mobile Suscipit,4,84601.6,8386.33,99829.888
+11792,Yakshit Lall,North,Clothing,Men's Wear Nobis,1,46795.1,11139.37,55218.21799999999
+11793,Seher Chadha,North,Toys,Action Figure Aut,1,60989.0,4948.38,71967.01999999999
+11794,Renee Zachariah,North,Furniture,Bed Tenetur,5,296105.5,54528.52,349404.49
+11798,Manikya Gupta,North,Books,Fiction Eos,2,120103.2,19912.51,141721.77599999998
+11800,Lavanya Varma,North,Beauty,Lipstick Rem,5,145764.0,16625.43,172001.52
+11808,Samaira Vaidya,North,Furniture,Sofa Ea,5,139448.0,24702.71,164548.63999999998
+11809,Neysa Baral,North,Toys,Doll Tempore,5,90315.0,5812.04,106571.7
+11812,Devansh Agate,North,Beauty,Lipstick Veniam,2,34232.9,5035.26,40394.822
+11813,Lavanya Mammen,North,Groceries,Oil Ullam,1,18085.6,2273.32,21341.007999999998
+11816,Shaan Badal,North,Groceries,Rice Similique,4,14877.0,2553.77,17554.86
+11820,Neelofar Goswami,North,Sports,Dumbbells Ipsa,3,76108.8,7331.52,89808.384
+11822,Veer Bora,North,Beauty,Lipstick Repellendus,1,55533.0,10283.24,65528.939999999995
+11835,Inaaya  Borah,North,Kitchen,Microwave Illum,2,30788.8,5286.49,36330.784
+11838,Onkar Keer,North,Toys,Doll Quisquam,4,115664.4,7810.86,136483.992
+11848,Zoya Reddy,North,Beauty,Lipstick Iure,2,79619.5,8370.16,93951.01
+11849,Charvi Balasubramanian,North,Home Decor,Lamp Voluptatibus,5,312912.0,52683.49,369236.16
+11853,Trisha Gandhi,North,Home Decor,Clock Fuga,4,82582.4,9531.22,97447.23199999999
+11855,Sahil Hegde,North,Beauty,Perfume Quos,3,153416.7,18308.7,181031.706
+11856,Aarush Gupta,North,Beauty,Perfume Eligendi,4,112713.6,17154.04,133002.048
+11868,Azad Baral,North,Groceries,Rice Quas,5,75176.0,6251.8,88707.68
+11869,Baiju Thakur,North,Beauty,Perfume Natus,4,95448.2,6677.14,112628.87599999999
+11871,Vardaniya Dave,North,Furniture,Sofa Dolor,4,2252.0,338.47,2657.3599999999997
+11875,Hazel Kunda,North,Furniture,Table Ipsa,5,31801.25,6993.66,37525.475
+11878,Ahana  Kumar,North,Groceries,Spices Earum,3,109380.0,5927.28,129068.4
+11881,Aaina Comar,North,Electronics,Laptop Quibusdam,4,177551.2,43134.48,209510.416
+11883,Miraan Mahajan,North,Books,Non-Fiction Soluta,3,167870.7,13692.45,198087.426
+11889,Zain Brar,North,Furniture,Cabinet Id,1,14630.4,1675.17,17263.872
+11891,Armaan Sankaran,North,Sports,Football Provident,3,54095.7,2905.57,63832.92599999999
+11892,Lakshit Jha,North,Groceries,Sugar Magni,5,108345.0,17017.25,127847.09999999999
+11900,Renee Balakrishnan,North,Home Decor,Clock Sed,3,34217.1,5127.74,40376.17799999999
+11901,Nishith Das,North,Home Decor,Vase Tenetur,1,33317.0,1943.4,39314.06
+11902,Aarav Choudhry,North,Clothing,Accessories Ipsum,4,169692.8,14287.36,200237.504
+11908,Adah Basak,North,Books,Non-Fiction Quo,3,176352.0,35659.14,208095.36
+11909,Ira Ray,North,Toys,Doll Debitis,3,125687.85,22363.32,148311.663
+11911,Eshani Kala,North,Groceries,Oil Fugiat,4,108919.4,14287.4,128524.89199999999
+11913,Ritvik Bajaj,North,Beauty,Shampoo Qui,5,224493.5,13875.54,264902.32999999996
+11915,Pranay Sarma,North,Groceries,Spices Corporis,1,2225.6,263.35,2626.2079999999996
+11916,Khushi Chad,North,Toys,Doll Quasi,4,265761.0,39305.02,313597.98
+11919,Nitara Mani,North,Home Decor,Wall Art Similique,4,42738.0,5354.37,50430.84
+11921,Kiaan Luthra,North,Furniture,Bed Corrupti,4,157753.6,17599.53,186149.248
+11924,Samar Bose,North,Books,Textbook Praesentium,4,10736.0,1916.53,12668.48
+11929,Farhan Bhatti,North,Books,Textbook Dolore,1,59384.8,4116.67,70074.064
+11931,Purab Chaudhari,North,Groceries,Spices Pariatur,3,78795.0,13932.19,92978.09999999999
+11933,Kanav Mander,North,Clothing,Kids Wear Enim,5,61461.0,13012.43,72523.98
+11936,Lagan Chatterjee,North,Books,Biography Aliquam,3,195304.5,32368.66,230459.31
+11940,Yuvraj  Hayre,North,Home Decor,Lamp Sit,5,162175.5,30400.7,191367.09
+11944,Aradhya Borah,North,Books,Non-Fiction Pariatur,4,53618.4,5273.99,63269.712
+11946,Anay Anand,North,Groceries,Spices Quae,4,75877.8,15649.63,89535.804
+11948,Veer Basu,North,Books,Biography Quibusdam,5,337454.25,69191.11,398196.01499999996
+11949,Anya Karpe,North,Kitchen,Cookware Set Beatae,3,118029.0,19795.15,139274.22
+11950,Mamooty Bhat,North,Beauty,Lipstick Aut,4,159908.4,11869.58,188691.91199999998
+11951,Devansh Lad,North,Home Decor,Clock Debitis,4,83095.2,11242.62,98052.336
+11953,Rasha Bora,North,Books,Textbook Soluta,5,335573.25,18606.62,395976.435
+11954,Shlok Dalal,North,Beauty,Perfume Deserunt,1,54015.3,8448.22,63738.054
+11959,Damini Bhatti,North,Kitchen,Microwave Possimus,2,22444.2,1748.38,26484.156
+11960,Kanav Srinivas,North,Kitchen,Cookware Set Incidunt,1,9504.7,1019.75,11215.546
+11961,Shamik Varughese,North,Books,Textbook Veritatis,1,15722.0,3739.94,18551.96
+11973,Rhea Loke,North,Books,Comics Quia,4,202150.4,13460.43,238537.47199999998
+11978,Nayantara Wali,North,Electronics,Headphones Est,5,89855.0,19466.13,106028.9
+11981,Riya Acharya,North,Books,Biography Modi,5,158184.5,25830.56,186657.71
+11982,Navya Bhardwaj,North,Home Decor,Vase Quo,4,157689.6,24924.61,186073.728
+11984,Devansh Krish,North,Sports,Tennis Racket Neque,4,4386.0,357.47,5175.48
+11985,Lagan Gill,North,Sports,Dumbbells Veritatis,1,5808.0,396.13,6853.44
+11988,Adira Boase,North,Electronics,Camera Quod,2,101031.0,15448.92,119216.57999999999
+11998,Saksham Bhakta,North,Toys,Doll Aspernatur,1,63545.4,9290.79,74983.572
+12002,Raghav Biswas,North,Beauty,Lipstick Nam,1,48126.4,5160.91,56789.152
+12005,Ritvik Thaker,North,Electronics,Headphones Illo,5,327411.0,50382.9,386344.98
+12007,Anahi Gaba,North,Home Decor,Wall Art Adipisci,2,48430.4,11645.9,57147.871999999996
+12008,Faiyaz Soni,North,Beauty,Perfume Deserunt,4,236025.6,17098.93,278510.208
+12017,Dharmajan Hayer,North,Clothing,Accessories Minima,5,300262.5,15684.81,354309.75
+12019,Ira Varkey,North,Toys,RC Car Labore,3,10401.6,2317.08,12273.887999999999
+12020,Dishani Dugar,North,Sports,Dumbbells Aliquid,5,182567.25,15611.59,215429.35499999998
+12023,Hazel Sundaram,North,Toys,Action Figure Exercitationem,2,89147.2,8304.75,105193.696
+12027,Gokul Baral,North,Electronics,Headphones Incidunt,4,230403.6,36781.62,271876.248
+12030,Armaan Bhalla,North,Clothing,Shoes Praesentium,1,52631.1,3786.2,62104.698
+12032,Vanya Joshi,North,Books,Textbook Soluta,3,81329.7,18780.74,95969.04599999999
+12034,Chirag Chaudhry,North,Sports,Football Optio,4,83410.0,14277.24,98423.79999999999
+12035,Purab Bala,North,Clothing,Men's Wear Illum,5,245956.5,60078.61,290228.67
+12038,Purab Yohannan,North,Groceries,Sugar Ipsam,3,216853.65,53711.74,255887.30699999997
+12044,Khushi Guha,North,Groceries,Rice Culpa,5,99990.0,9341.53,117988.2
+12048,Anahita Jaggi,North,Groceries,Wheat Accusantium,2,37210.0,3316.1,43907.799999999996
+12057,Damini Kumar,North,Groceries,Wheat Iusto,4,179376.0,27144.95,211663.68
+12061,Seher Chacko,North,Home Decor,Wall Art Iusto,2,128771.6,16647.26,151950.488
+12063,Zeeshan Dash,North,Furniture,Sofa Odit,4,259178.4,51430.67,305830.512
+12064,Vritika Gala,North,Furniture,Chair Tempore,2,95052.0,18928.62,112161.36
+12065,Shamik Acharya,North,Home Decor,Cushion Iste,1,36402.1,2870.15,42954.477999999996
+12066,Taran Sharma,North,Kitchen,Cookware Set Illo,1,54038.85,11664.07,63765.84299999999
+12069,Rania Bir,North,Groceries,Sugar Suscipit,5,377297.25,75188.15,445210.755
+12070,Rania Vala,North,Toys,Puzzle Quos,4,71063.4,4325.75,83854.81199999999
+12073,Aradhya Sethi,North,Beauty,Lipstick Deleniti,5,35655.0,1891.89,42072.899999999994
+12075,Urvi Chada,North,Home Decor,Clock Aliquam,3,58053.6,9053.66,68503.24799999999
+12078,Dhanush Agate,North,Toys,Action Figure Praesentium,2,114251.9,27397.73,134817.242
+12079,Jayant Kota,North,Sports,Yoga Mat Laborum,5,140706.0,19746.09,166033.08
+12086,Siya Chakrabarti,North,Kitchen,Cookware Set Error,4,179933.8,40754.03,212321.88399999996
+12092,Divyansh Bhattacharyya,North,Kitchen,Refrigerator Quasi,3,87038.4,21271.05,102705.31199999999
+12095,Neysa Bhasin,North,Clothing,Men's Wear Voluptas,1,62548.0,10623.32,73806.64
+12099,Hiran Khalsa,North,Beauty,Face Cream Harum,5,23856.0,2508.49,28150.079999999998
+12109,Saanvi Dara,North,Kitchen,Refrigerator Exercitationem,5,203304.75,32803.51,239899.60499999998
+12110,Elakshi Dugar,North,Clothing,Kids Wear Praesentium,5,228305.0,54011.07,269399.89999999997
+12116,Indrans Rege,North,Home Decor,Lamp Dolore,1,46443.6,2449.72,54803.448
+12119,Devansh Buch,North,Beauty,Perfume Animi,5,37593.0,8319.15,44359.74
+12120,Kiaan Swamy,North,Beauty,Perfume Similique,5,57240.0,4777.6,67543.2
+12124,Jhanvi Aggarwal,North,Home Decor,Vase Exercitationem,2,45096.0,4335.11,53213.28
+12126,Raghav Grewal,North,Furniture,Bed Enim,4,157665.6,30789.59,186045.408
+12127,Bhamini Doshi,North,Beauty,Shampoo Vero,4,9279.6,1874.3,10949.928
+12128,Lavanya Tella,North,Sports,Cricket Bat Est,4,42576.0,9423.41,50239.68
+12130,Drishya Gill,North,Beauty,Shampoo Consequuntur,4,140459.4,31023.13,165742.09199999998
+12131,Samaira Singhal,North,Beauty,Shampoo Numquam,1,43440.1,8398.69,51259.31799999999
+12132,Nehmat Tiwari,North,Toys,Doll Illum,3,177648.0,25632.62,209624.63999999998
+12134,Ivana Vasa,North,Toys,RC Car Inventore,5,255316.5,54733.9,301273.47
+12139,Ranbir Balakrishnan,North,Toys,RC Car Odit,3,191217.0,36673.66,225636.06
+12144,Chirag Char,North,Toys,Action Figure Accusantium,5,303615.75,70173.14,358266.58499999996
+12145,Nakul Tella,North,Home Decor,Vase Minus,2,47163.2,8201.57,55652.575999999994
+12148,Vanya Bir,North,Clothing,Accessories Eaque,4,290548.0,37770.26,342846.63999999996
+12151,Rati Raju,North,Home Decor,Cushion Consectetur,3,167700.0,12130.7,197886.0
+12153,Kiara Ahluwalia,North,Electronics,Mobile Culpa,1,16549.95,856.38,19528.941
+12162,Kanav Shankar,North,Furniture,Bed Iusto,5,176760.0,25858.04,208576.8
+12163,Hridaan Bhatia,North,Groceries,Sugar Dolores,2,116650.5,8827.18,137647.59
+12167,Charvi Mallick,North,Home Decor,Vase Animi,2,158716.0,38917.65,187284.88
+12168,Ishita Vyas,North,Clothing,Accessories Quasi,5,184654.0,25041.58,217891.72
+12172,Lakshay Devi,North,Books,Biography Illum,2,86927.8,14222.35,102574.804
+12173,Vidur Tripathi,North,Home Decor,Clock Optio,2,57235.6,10384.91,67538.008
+12174,Alia Ray,North,Electronics,Camera Debitis,4,112901.8,24805.27,133224.124
+12176,Ryan Choudhry,North,Books,Textbook Error,1,24797.6,2698.76,29261.167999999998
+12194,Tiya Jayaraman,North,Groceries,Sugar Dicta,4,46692.2,10966.25,55096.795999999995
+12199,Trisha Lad,North,Electronics,Headphones Error,4,88092.8,12881.23,103949.504
+12201,Darshit Mand,North,Furniture,Bed Eos,5,5852.0,646.64,6905.36
+12202,Riaan Bassi,North,Clothing,Women's Wear Illum,4,254068.4,14388.64,299800.712
+12203,Adira Choudhry,North,Kitchen,Cookware Set Corporis,1,17341.0,2656.37,20462.379999999997
+12204,Hrishita Kumar,North,Clothing,Shoes A,1,43547.0,2179.9,51385.46
+12208,Tiya Sarna,North,Clothing,Accessories Ipsam,5,233667.0,36076.39,275727.06
+12216,Umang Bail,North,Electronics,Camera Rem,4,157221.2,11773.36,185521.016
+12219,Zaina Soman,North,Home Decor,Clock Labore,1,25908.4,3410.62,30571.912
+12220,Saira Kant,North,Kitchen,Refrigerator Adipisci,4,41168.0,9097.57,48578.24
+12235,Bhavin Agate,North,Home Decor,Cushion Quos,5,311932.0,44766.0,368079.76
+12247,Nehmat Krish,North,Toys,Puzzle Voluptatem,1,41223.3,2711.47,48643.494
+12249,Armaan Chaudhry,North,Groceries,Wheat Magnam,5,341830.0,20138.48,403359.39999999997
+12253,Navya Barman,North,Sports,Dumbbells Provident,1,11222.55,1010.4,13242.608999999999
+12256,Sumer Sanghvi,North,Beauty,Shampoo Aperiam,4,216061.2,28677.6,254952.216
+12257,Aradhya Krish,North,Books,Biography Facilis,5,70175.0,16803.05,82806.5
+12259,Jayan Bhatnagar,North,Groceries,Rice Eum,3,82995.3,14335.38,97934.454
+12271,Bhamini Deo,North,Sports,Tennis Racket Debitis,5,44199.0,7158.43,52154.82
+12277,Abram Brar,North,Books,Non-Fiction Molestiae,4,271944.0,23716.74,320893.92
+12282,Miraya Majumdar,North,Groceries,Rice Quis,1,22349.7,2813.7,26372.646
+12289,Mohanlal Ratti,North,Electronics,Smartwatch Harum,1,25028.25,4540.3,29533.335
+12298,Misha Andra,North,Furniture,Table Voluptate,1,51339.0,9920.67,60580.02
+12299,Rati Mall,North,Toys,Doll Ipsa,1,56140.0,4888.76,66245.2
+12302,Gokul Kale,North,Sports,Tennis Racket Fugiat,4,210427.2,37602.44,248304.096
+12304,Myra Baria,North,Toys,Action Figure Ab,2,142270.2,29485.65,167878.836
+12311,Sana Borra,North,Books,Non-Fiction Quam,1,46733.0,3796.47,55144.939999999995
+12315,Shamik Rout,North,Home Decor,Lamp Autem,1,45513.0,7593.86,53705.34
+12318,Aaina Ramanathan,North,Groceries,Sugar Eveniet,2,57502.4,6993.82,67852.832
+12328,Jivin Choudhry,North,Home Decor,Cushion Necessitatibus,3,78713.4,5221.27,92881.81199999999
+12329,Hazel Ratti,North,Kitchen,Mixer Grinder Occaecati,4,75696.0,17454.75,89321.28
+12331,Vardaniya Tella,North,Electronics,Headphones Totam,5,339844.5,82804.05,401016.50999999995
+12342,Indrans Ram,North,Home Decor,Wall Art Ipsa,5,239296.5,14656.39,282369.87
+12344,Anahi Chakraborty,North,Groceries,Spices Incidunt,1,41768.1,2494.26,49286.35799999999
+12349,Adira Mahal,North,Clothing,Accessories Eveniet,2,43891.9,6699.61,51792.441999999995
+12351,Ritvik Varma,North,Electronics,Headphones Aliquid,4,243910.8,48980.36,287814.74399999995
+12355,Rohan Dada,North,Kitchen,Refrigerator Sapiente,2,118796.8,24380.89,140180.224
+12363,Saira Kakar,North,Books,Fiction Magnam,3,192332.25,16746.64,226952.055
+12364,Yashvi Chandran,North,Furniture,Cabinet Minima,3,59841.6,13615.75,70613.08799999999
+12365,Vedika Dugal,North,Toys,Puzzle Corrupti,5,15640.0,3775.05,18455.2
+12367,Armaan Taneja,North,Furniture,Bed Incidunt,3,59966.4,14461.24,70760.352
+12389,Shayak Handa,North,Groceries,Sugar Aliquam,1,39994.2,6682.85,47193.155999999995
+12390,Vidur Vala,North,Beauty,Perfume Quibusdam,1,54944.0,10985.4,64833.92
+12391,Rati Sur,North,Sports,Cricket Bat Molestias,4,13729.4,830.97,16200.692
+12393,Hunar Krishnan,North,Sports,Football Ex,2,42798.4,5163.93,50502.112
+12394,Anahi Choudhry,North,Kitchen,Refrigerator Asperiores,5,3897.0,316.04,4598.46
+12395,Yuvaan Aurora,North,Books,Biography Optio,2,116863.1,28129.25,137898.458
+12400,Pari Shukla,North,Sports,Cricket Bat Eius,5,275228.0,64282.84,324769.04
+12401,Vihaan Saran,North,Home Decor,Vase Sit,3,68364.0,9006.11,80669.51999999999
+12406,Tushar Arya,North,Groceries,Rice Culpa,5,291137.75,35054.49,343542.545
+12407,Vivaan Dhingra,North,Toys,Puzzle Quis,2,21426.3,3629.78,25283.033999999996
+12412,Azad Tak,North,Home Decor,Vase In,1,46437.2,6423.32,54795.89599999999
+12420,Renee Borah,North,Beauty,Perfume Neque,5,184662.5,43666.41,217901.75
+12426,Saksham Goyal,North,Books,Comics Quibusdam,1,17459.1,1487.91,20601.737999999998
+12434,Purab Chadha,North,Groceries,Sugar Qui,1,44779.0,9489.13,52839.219999999994
+12436,Navya Sachar,North,Toys,Board Game Tenetur,3,94184.25,12134.74,111137.415
+12448,Shlok Dewan,North,Clothing,Shoes Vero,5,320278.25,58964.24,377928.33499999996
+12449,Pihu Acharya,North,Home Decor,Lamp Minima,2,107553.6,16000.44,126913.248
+12450,Rati Chhabra,North,Toys,Puzzle Sapiente,4,172070.6,22326.14,203043.308
+12452,Anahi Sahni,North,Kitchen,Microwave Id,5,97529.0,9134.17,115084.22
+12455,Sana Agarwal,North,Sports,Yoga Mat Odit,4,106966.4,14285.36,126220.35199999998
+12456,Arnav Kurian,North,Furniture,Chair Sapiente,1,50415.3,2587.05,59490.054000000004
+12460,Saira Vala,North,Electronics,Headphones Reiciendis,5,313015.5,46083.59,369358.29
+12461,Shanaya Rout,North,Clothing,Women's Wear Distinctio,1,8587.8,2055.5,10133.604
+12469,Emir Sandhu,North,Toys,Puzzle Consectetur,1,15838.2,2735.84,18689.076
+12471,Ishaan Manne,North,Kitchen,Microwave Ipsum,4,290836.0,32501.93,343186.48
+12473,Adah Bhatnagar,North,Home Decor,Cushion Mollitia,1,47514.6,6504.81,56067.227999999996
+12478,Mohanlal Deshmukh,North,Clothing,Men's Wear Deleniti,3,21184.2,3520.75,24997.356
+12480,Hansh Borah,North,Sports,Football Quam,1,45014.4,5198.44,53116.992
+12482,Eshani Swaminathan,North,Electronics,Laptop Consequuntur,1,18787.2,3486.09,22168.896
+12488,Indrans Dhar,North,Furniture,Sofa Sed,4,173167.2,40443.37,204337.296
+12493,Faiyaz Chadha,North,Books,Non-Fiction Modi,4,24820.0,4229.35,29287.6
+12499,Tushar Aurora,North,Clothing,Accessories Occaecati,2,81724.8,6693.5,96435.264
+12500,Lagan Som,North,Clothing,Kids Wear Voluptatem,1,43378.0,3355.11,51186.04
+12501,Kaira Bhatia,North,Electronics,Laptop Laboriosam,5,34689.25,4141.36,40933.314999999995
+12503,Yakshit Chakraborty,North,Beauty,Perfume Repudiandae,4,259035.8,13021.68,305662.24399999995
+12505,Heer Banik,North,Groceries,Oil Repellendus,3,102049.2,9696.14,120418.056
+12508,Jivika Dey,North,Toys,Puzzle Quos,2,137878.0,30885.9,162696.03999999998
+12509,Vanya Saha,North,Groceries,Rice Hic,5,116917.5,6165.95,137962.65
+12510,Anvi Behl,North,Furniture,Sofa Sunt,5,183094.25,45442.08,216051.215
+12515,Shray Sarma,North,Clothing,Women's Wear Mollitia,4,233160.0,25126.57,275128.8
+12518,Kartik Chandran,North,Clothing,Women's Wear Optio,5,99368.0,5209.63,117254.23999999999
+12530,Fateh Madan,North,Groceries,Oil Perspiciatis,4,136400.4,17050.92,160952.47199999998
+12533,Hunar Chowdhury,North,Toys,Doll Ab,4,59371.2,6683.37,70058.01599999999
+12539,Ojas Viswanathan,North,Beauty,Face Cream Illum,2,81152.8,12099.15,95760.304
+12542,Myra Wason,North,Books,Textbook Itaque,2,102623.9,11001.93,121096.20199999999
+12544,Uthkarsh Lalla,North,Books,Comics Non,1,6848.55,1196.98,8081.289
+12545,Trisha Sharaf,North,Electronics,Headphones Repudiandae,3,9843.9,2318.43,11615.802
+12549,Dishani Lad,North,Books,Fiction Illum,5,120630.0,11786.01,142343.4
+12556,Zara Swaminathan,North,Home Decor,Cushion Praesentium,3,164584.65,18249.62,194209.887
+12558,Bhamini Chatterjee,North,Furniture,Sofa Ipsum,4,250801.0,52016.65,295945.18
+12559,Kiara Kuruvilla,North,Sports,Yoga Mat Eligendi,5,190560.0,32518.37,224860.8
+12561,Sana Vyas,North,Home Decor,Wall Art Facilis,3,116460.0,10292.25,137422.8
+12563,Siya Mammen,North,Electronics,Laptop Libero,3,154557.0,29198.8,182377.25999999998
+12565,Keya Vohra,North,Toys,Board Game Beatae,4,182362.0,18553.72,215187.15999999997
+12569,Jivin Baral,North,Home Decor,Clock Odit,2,58144.0,13459.28,68609.92
+12570,Nayantara Issac,North,Kitchen,Mixer Grinder Iusto,4,199036.4,42664.44,234862.952
+12575,Ishita Kuruvilla,North,Clothing,Accessories Quaerat,2,70016.4,12402.74,82619.35199999998
+12576,Purab Khalsa,North,Beauty,Face Cream Earum,2,30672.0,2749.95,36192.96
+12583,Manjari Chokshi,North,Toys,Action Figure Doloremque,1,61971.3,14880.57,73126.134
+12590,Azad Khatri,North,Home Decor,Wall Art Numquam,4,273413.8,57713.74,322628.284
+12594,Alia Chaudhari,North,Electronics,Mobile Itaque,1,5985.6,426.49,7063.008
+12595,Aarna Dugar,North,Electronics,Headphones Quae,5,226674.75,21145.25,267476.20499999996
+12600,Amani Andra,North,Sports,Football Repellendus,3,60822.0,4831.06,71769.95999999999
+12603,Aarush Acharya,North,Groceries,Oil Nam,1,74205.45,8076.51,87562.431
+12604,Indranil Toor,North,Furniture,Sofa Facere,4,69350.4,16957.84,81833.472
+12608,Advik Bhatnagar,North,Electronics,Camera Blanditiis,4,208029.6,42129.51,245474.92799999999
+12609,Neelofar Saraf,North,Kitchen,Refrigerator Consequuntur,5,171105.0,42580.32,201903.9
+12621,Sana Sule,North,Books,Biography Ipsa,3,2050.2,433.45,2419.236
+12624,Jhanvi Sinha,North,Kitchen,Microwave Necessitatibus,1,11869.3,1559.81,14005.773999999998
+12626,Hunar Lalla,North,Furniture,Cabinet Natus,3,97338.9,22647.53,114859.90199999999
+12630,Yashvi Sarin,North,Sports,Dumbbells Voluptate,2,55274.8,9564.03,65224.264
+12637,Samiha Golla,North,Clothing,Men's Wear Soluta,2,98150.0,13045.79,115817.0
+12644,Ritvik Grewal,North,Home Decor,Vase Ducimus,3,137672.1,23820.28,162453.078
+12645,Hansh Krish,North,Toys,Board Game Harum,2,136432.0,33682.96,160989.75999999998
+12655,Ivan Varughese,North,Beauty,Lipstick Eaque,2,132170.0,18277.29,155960.6
+12656,Indranil Raj,North,Sports,Dumbbells Odio,3,20235.0,1635.15,23877.3
+12658,Nehmat Khare,North,Home Decor,Cushion At,4,100054.4,17424.82,118064.19199999998
+12659,Parinaaz Dayal,North,Beauty,Face Cream Repudiandae,3,145482.0,17219.03,171668.75999999998
+12666,Kismat Chand,North,Home Decor,Clock Deserunt,5,140633.25,34618.19,165947.235
+12668,Mahika Ganesh,North,Home Decor,Cushion Laborum,4,251334.8,25825.56,296575.06399999995
+12669,Kaira Mannan,North,Books,Fiction Possimus,2,15103.1,1095.15,17821.658
+12671,Kiara Bahl,North,Kitchen,Refrigerator Ducimus,5,233049.25,14776.65,274998.115
+12676,Madhav Guha,North,Books,Fiction Itaque,3,16551.0,1712.4,19530.18
+12677,Anay Sandal,North,Clothing,Shoes Ducimus,5,140908.5,14301.31,166272.03
+12682,Ritvik Sandhu,North,Home Decor,Vase In,2,97323.7,20200.91,114841.96599999999
+12686,Amira Jain,North,Clothing,Women's Wear Minima,3,44737.2,9603.14,52789.89599999999
+12687,Renee Sabharwal,North,Home Decor,Cushion Qui,2,54444.6,5481.82,64244.628
+12688,Bhavin Krishnan,North,Electronics,Camera Ea,5,103364.0,12412.99,121969.51999999999
+12695,Ishaan Tara,North,Kitchen,Cookware Set Accusamus,2,64222.2,11768.21,75782.196
+12701,Jayan Handa,North,Beauty,Shampoo Enim,5,284796.0,34565.09,336059.27999999997
+12706,Indranil Master,North,Groceries,Rice Illum,4,236803.2,30264.37,279427.776
+12709,Renee Luthra,North,Electronics,Headphones Suscipit,3,167464.8,27314.23,197608.46399999998
+12710,Manjari Kar,North,Kitchen,Microwave Vel,3,26831.1,2162.51,31660.697999999997
+12715,Divij Varma,North,Kitchen,Juicer Enim,3,96417.0,5780.97,113772.06
+12716,Sana Trivedi,North,Toys,Action Figure Libero,5,80015.0,5568.38,94417.7
+12717,Biju Chandra,North,Beauty,Foundation Ipsa,1,62831.2,8239.7,74140.81599999999
+12720,Veer Bhardwaj,North,Beauty,Foundation Nobis,5,88530.5,6937.95,104465.98999999999
+12727,Manjari Gill,North,Toys,RC Car Quia,4,311072.0,54804.85,367064.95999999996
+12731,Saksham Borde,North,Groceries,Rice Cum,1,13461.3,911.03,15884.333999999999
+12738,Ivana Tripathi,North,Toys,Puzzle Asperiores,1,54449.3,5391.39,64250.174
+12741,Kaira Ratta,North,Furniture,Cabinet Aliquam,5,302160.0,19963.71,356548.8
+12743,Vedika Jain,North,Sports,Football Ea,5,21175.5,3963.23,24987.09
+12746,Oorja Kanda,North,Sports,Football Sequi,1,71441.1,6861.7,84300.498
+12753,Siya Dutta,North,Books,Comics Laborum,4,97430.4,5988.62,114967.87199999999
+12755,Jivin Sood,North,Toys,Action Figure Repudiandae,5,27890.0,1860.7,32910.2
+12759,Lagan Sridhar,North,Kitchen,Refrigerator Quasi,1,32007.4,5869.21,37768.731999999996
+12764,Arnav Bava,North,Books,Textbook Quae,1,49852.2,3203.67,58825.59599999999
+12779,Hrishita Reddy,North,Books,Textbook Illo,4,148505.6,11976.6,175236.608
+12796,Badal Rama,North,Groceries,Oil Quis,3,91956.0,15507.65,108508.07999999999
+12798,Fateh Jha,North,Kitchen,Refrigerator Fuga,4,76150.4,10882.58,89857.472
+12802,Madhav Bhatti,North,Books,Non-Fiction Maiores,2,59337.0,6148.85,70017.66
+12810,Amani Verma,North,Books,Biography Accusamus,2,62236.8,5609.48,73439.424
+12815,Damini Tandon,North,Home Decor,Lamp Illo,4,45667.2,7422.94,53887.295999999995
+12819,Lakshay Chad,North,Beauty,Lipstick Maiores,5,308624.0,23072.14,364176.32
+12821,Yasmin Goswami,North,Groceries,Sugar Provident,4,285570.0,24832.66,336972.6
+12823,Zaina Chokshi,North,Electronics,Laptop Ab,5,192312.0,29710.68,226928.15999999997
+12824,Jayan Bawa,North,Furniture,Cabinet Officia,5,118064.0,12228.11,139315.52
+12836,Kimaya Tara,North,Sports,Cricket Bat Dolore,3,17370.6,4006.36,20497.307999999997
+12841,Riaan Mahal,North,Furniture,Chair Quo,1,63597.85,12212.62,75045.46299999999
+12848,Navya Lad,North,Toys,Board Game Aperiam,3,110514.45,7595.13,130407.05099999999
+12858,Tarini Sani,North,Toys,RC Car Quis,4,254768.4,19022.63,300626.712
+12861,Shamik Agate,North,Sports,Football Porro,3,109029.6,24555.19,128654.928
+12863,Khushi Baral,North,Electronics,Laptop Eum,3,184730.4,18623.33,217981.87199999997
+12871,Rhea Sura,North,Kitchen,Refrigerator Corporis,2,1056.0,89.97,1246.08
+12873,Armaan Tara,North,Kitchen,Microwave Molestiae,5,42104.75,9512.34,49683.604999999996
+12875,Kimaya Iyengar,North,Books,Fiction Voluptas,4,271760.4,27433.78,320677.272
+12884,Devansh Kaul,North,Electronics,Mobile A,1,31555.0,7762.5,37234.9
+12887,Shanaya Raju,North,Books,Comics Soluta,5,180022.5,36746.22,212426.55
+12892,Ritvik Bhatnagar,North,Furniture,Table Eveniet,4,86835.2,18547.36,102465.536
+12894,Khushi Bhasin,North,Books,Non-Fiction Quidem,4,110367.4,14609.77,130233.53199999999
+12898,Seher Dugar,North,Sports,Yoga Mat Ipsam,2,129052.1,30642.88,152281.478
+12899,Kiara Kant,North,Kitchen,Juicer Possimus,2,69539.2,7371.72,82056.256
+12903,Nirvaan Chakraborty,North,Furniture,Bed Dolorem,4,29156.4,7080.79,34404.552
+12907,Alisha Dugal,North,Groceries,Oil Veniam,2,29643.8,7092.75,34979.683999999994
+12910,Shaan Bath,North,Books,Fiction Dolorem,2,88794.6,9359.11,104777.628
+12918,Vedika Dasgupta,North,Home Decor,Wall Art Voluptatem,4,83078.4,14421.83,98032.51199999999
+12923,Hunar Sarma,North,Clothing,Men's Wear Labore,2,139545.0,21135.93,164663.1
+12924,Heer Dara,North,Sports,Dumbbells Nostrum,2,76535.8,7558.5,90312.24399999999
+12927,Ahana  Borah,North,Groceries,Sugar Nulla,3,13930.65,2507.65,16438.166999999998
+12928,Reyansh Bahri,North,Electronics,Laptop Occaecati,2,123560.0,20415.59,145800.8
+12929,Ojas Balakrishnan,North,Furniture,Bed Alias,4,246460.4,59284.02,290823.272
+12932,Eshani Anand,North,Books,Non-Fiction A,1,11259.1,949.98,13285.738
+12933,Bhavin Dora,North,Sports,Football Eos,2,23441.3,4454.78,27660.733999999997
+12935,Piya Sani,North,Kitchen,Juicer Consequuntur,4,219256.2,37801.56,258722.316
+12937,Uthkarsh Bahl,North,Home Decor,Cushion Sint,3,114960.0,11993.39,135652.8
+12946,Indranil Ray,North,Electronics,Smartwatch Nesciunt,2,55367.3,5273.68,65333.414
+12948,Raunak Buch,North,Books,Comics Nulla,5,274244.0,40371.89,323607.92
+12953,Drishya Mahajan,North,Clothing,Men's Wear Nobis,1,18574.2,3472.99,21917.556
+12955,Ishita Master,North,Groceries,Wheat Laborum,3,58701.0,7699.42,69267.18
+12956,Keya Ratti,North,Books,Non-Fiction Blanditiis,4,115369.2,15008.08,136135.656
+12957,Indrans Ahluwalia,North,Books,Biography Eius,4,118184.0,25056.82,139457.12
+12967,Kimaya Dua,North,Toys,Action Figure Alias,5,147096.0,22451.03,173573.28
+12972,Biju Malhotra,North,Toys,Doll Modi,3,199848.6,13439.84,235821.348
+12973,Shlok Venkataraman,North,Home Decor,Cushion Recusandae,3,175054.5,40811.14,206564.31
+12974,Vanya Anand,North,Beauty,Perfume Unde,5,225845.0,34447.83,266497.1
+12982,Advika Bal,North,Beauty,Perfume Minus,4,62944.0,10997.43,74273.92
+12987,Samiha Upadhyay,North,Sports,Yoga Mat Ea,3,83497.5,11950.92,98527.04999999999
+12991,Rania Bal,North,Furniture,Table Delectus,1,75896.45,6114.17,89557.81099999999
+12993,Yashvi Khurana,North,Clothing,Men's Wear Quidem,2,87667.3,21791.96,103447.414
+13007,Zara Din,North,Groceries,Wheat Soluta,5,22890.0,2739.12,27010.199999999997
+13014,Rania Sha,North,Home Decor,Wall Art Quia,5,282378.0,67947.89,333206.04
+13017,Nehmat Bakshi,North,Sports,Football Nihil,1,31383.9,1697.65,37033.002
+13018,Yasmin Choudhary,North,Groceries,Spices Nulla,2,63708.0,9996.08,75175.44
+13030,Vidur Dutta,North,Beauty,Shampoo Commodi,5,263075.0,30507.31,310428.5
+13039,Damini Hora,North,Home Decor,Lamp Praesentium,2,88115.4,11763.57,103976.17199999999
+13040,Aaryahi Taneja,North,Electronics,Smartwatch Iste,5,106037.5,10712.41,125124.25
+13045,Divit Koshy,North,Electronics,Camera Culpa,4,66473.4,10615.49,78438.612
+13046,Lakshay Devan,North,Books,Biography Laboriosam,3,100515.0,12501.44,118607.7
+13049,Dhanuk Atwal,North,Electronics,Smartwatch Minus,2,139930.0,19954.53,165117.4
+13052,Pranay Iyengar,North,Books,Non-Fiction Iste,4,111701.0,13191.05,131807.18
+13067,Diya Buch,North,Electronics,Camera Corrupti,2,49987.8,6019.35,58985.604
+13088,Charvi Ganesh,North,Kitchen,Cookware Set Esse,1,41038.2,8831.35,48425.075999999994
+13089,Mishti Gupta,North,Electronics,Laptop Magnam,2,55303.2,13410.63,65257.77599999999
+13090,Ishaan Madan,North,Beauty,Lipstick Eligendi,4,279183.6,37205.72,329436.6479999999
+13092,Ryan Tank,North,Home Decor,Clock Quisquam,2,89578.8,15571.54,105702.984
+13098,Adira Bala,North,Electronics,Smartwatch Quibusdam,5,249644.0,38502.6,294579.92
+13101,Vanya Gade,North,Furniture,Sofa Sed,1,8771.15,1189.05,10349.956999999999
+13102,Madhup Bumb,North,Electronics,Headphones Ut,2,34698.6,8270.92,40944.348
+13106,Ira Bains,North,Kitchen,Mixer Grinder Quas,3,129648.6,27366.93,152985.348
+13108,Dhanush Tandon,North,Kitchen,Juicer Voluptatem,2,129704.0,28406.79,153050.72
+13111,Siya Subramaniam,North,Toys,Action Figure Magni,2,33288.0,7421.63,39279.84
+13114,Dharmajan Kapadia,North,Electronics,Mobile Deserunt,4,11985.2,2016.93,14142.536
+13127,Zeeshan Gala,North,Toys,Board Game Itaque,5,206729.5,28479.14,243940.81
+13129,Kabir Golla,North,Sports,Dumbbells Odio,2,11109.5,1550.18,13109.21
+13132,Hansh Sankaran,North,Electronics,Mobile Facilis,4,29415.6,5836.71,34710.407999999996
+13143,Romil Dugal,North,Electronics,Headphones Libero,4,198224.0,31757.71,233904.31999999998
+13146,Nakul Chand,North,Clothing,Accessories Corporis,5,295200.0,63951.15,348336.0
+13153,Vedika Mane,North,Clothing,Kids Wear Iure,4,2982.4,712.76,3519.232
+13155,Shanaya Kapoor,North,Clothing,Men's Wear Odit,4,252507.8,47461.3,297959.20399999997
+13157,Inaaya  Dara,North,Groceries,Wheat Distinctio,4,59603.2,4144.46,70331.776
+13159,Tara Gill,North,Furniture,Cabinet Magnam,1,29299.5,3886.88,34573.409999999996
+13161,Ritvik Dash,North,Home Decor,Cushion Et,3,106686.9,5726.62,125890.54199999999
+13168,Ishita Chacko,North,Books,Biography Sed,5,65932.0,10865.77,77799.76
+13172,Dhanuk Din,North,Electronics,Camera Vero,4,166028.8,37882.17,195913.98399999997
+13173,Taimur Banerjee,North,Kitchen,Mixer Grinder Animi,5,169227.0,29678.19,199687.86
+13180,Kismat Das,North,Home Decor,Lamp Illo,4,81539.2,4892.61,96216.256
+13191,Jayan Vasa,North,Groceries,Oil Sequi,1,16219.0,2677.64,19138.42
+13198,Nayantara Savant,North,Books,Textbook Saepe,5,112822.0,18546.81,133129.96
+13202,Tejas Bhardwaj,North,Groceries,Sugar Ab,1,65347.15,16285.2,77109.637
+13204,Vritika Gopal,North,Kitchen,Mixer Grinder Sed,1,60556.55,14619.27,71456.729
+13207,Mehul Bhatti,North,Sports,Cricket Bat Debitis,2,65144.0,12519.71,76869.92
+13210,Jayant Atwal,North,Kitchen,Juicer Corporis,1,35884.8,7383.66,42344.064
+13212,Shlok Bose,North,Groceries,Rice Quos,1,52886.15,13146.08,62405.657
+13216,Sahil Srinivasan,North,Books,Textbook Voluptatem,5,32989.5,1892.49,38927.61
+13218,Umang Barad,North,Home Decor,Wall Art Odit,1,7436.6,1019.65,8775.188
+13220,Yuvraj  Deo,North,Electronics,Camera Ipsam,4,68904.4,13538.12,81307.192
+13224,Samaira Mane,North,Sports,Cricket Bat Officia,5,114280.25,5890.91,134850.695
+13225,Indrajit Rao,North,Groceries,Rice Aliquid,5,67554.5,16412.51,79714.31
+13230,Prerak Dora,North,Sports,Cricket Bat Assumenda,2,120024.0,16077.34,141628.32
+13232,Ishaan Sagar,North,Books,Non-Fiction Perferendis,5,21484.25,3028.34,25351.414999999997
+13233,Trisha Kari,North,Beauty,Shampoo Minus,1,43412.4,2964.82,51226.632
+13236,Advika Majumdar,North,Toys,RC Car Blanditiis,2,8467.7,2114.6,9991.886
+13243,Trisha Balan,North,Clothing,Men's Wear Ea,2,86414.4,15869.6,101968.99199999998
+13245,Adah Raj,North,Sports,Tennis Racket Quos,3,53667.3,8819.86,63327.414
+13246,Anahi Aggarwal,North,Toys,Board Game Modi,4,94965.8,19774.72,112059.644
+13253,Onkar Kohli,North,Beauty,Shampoo Labore,5,33468.75,7825.74,39493.125
+13276,Tushar Sachdev,North,Furniture,Bed Odit,1,14345.0,2600.55,16927.1
+13277,Mamooty Hans,North,Electronics,Camera Culpa,2,111292.5,25461.54,131325.15
+13279,Samar Upadhyay,North,Electronics,Camera Placeat,5,174989.5,16206.53,206487.61
+13281,Lakshay Dhar,North,Electronics,Laptop Non,1,56967.0,13168.07,67221.06
+13282,Ranbir Dugal,North,Books,Comics A,3,24295.2,1858.6,28668.336
+13296,Nitara Sahota,North,Beauty,Lipstick Aliquam,3,175645.5,33038.94,207261.69
+13301,Renee Ganesan,North,Beauty,Face Cream Nulla,5,181065.0,32530.95,213656.69999999998
+13305,Anvi Kapoor,North,Home Decor,Lamp Dolorum,2,91439.6,21533.1,107898.728
+13311,Alia Bhasin,North,Beauty,Lipstick Ea,4,10362.6,703.11,12227.868
+13314,Dhanush Varughese,North,Electronics,Headphones Deleniti,4,83299.2,16206.55,98293.056
+13316,Umang Gulati,North,Books,Biography Eos,4,220789.2,18417.03,260531.256
+13320,Tarini Sarna,North,Home Decor,Cushion Iste,3,195771.15,28791.58,231009.957
+13328,Prerak Sankaran,North,Groceries,Wheat Voluptate,2,14160.7,3203.36,16709.626
+13335,Hunar Sachdev,North,Sports,Cricket Bat Voluptates,4,204336.0,47304.96,241116.47999999998
+13341,Eshani Kade,North,Beauty,Foundation Asperiores,1,40352.0,6953.96,47615.36
+13345,Vritika Devi,North,Kitchen,Mixer Grinder Consequuntur,3,90020.7,11939.1,106224.42599999999
+13347,Samiha Setty,North,Electronics,Laptop Aliquam,5,233172.0,45500.62,275142.95999999996
+13348,Shanaya Ramanathan,North,Sports,Tennis Racket Nobis,4,268260.0,17206.02,316546.8
+13352,Shlok Bhandari,North,Toys,RC Car Iste,4,110394.6,17770.58,130265.628
+13353,Mamooty Choudhry,North,Electronics,Laptop Doloribus,5,347787.0,51062.36,410388.66
+13357,Himmat Gaba,North,Beauty,Lipstick Omnis,4,39576.0,6562.33,46699.68
+13359,Samar Dhawan,North,Kitchen,Microwave Optio,2,154824.0,13864.89,182692.31999999998
+13369,Stuvan Srinivas,North,Groceries,Spices Est,3,199049.4,30357.47,234878.292
+13375,Tanya Sabharwal,North,Books,Fiction Iusto,2,70909.9,7013.61,83673.68199999999
+13384,Adah Ratta,North,Beauty,Lipstick Modi,3,25660.8,2214.06,30279.744
+13388,Ehsaan Ghosh,North,Groceries,Rice Ipsam,2,6209.6,685.22,7327.328
+13390,Lagan Date,North,Clothing,Women's Wear Corporis,3,116980.2,26824.08,138036.636
+13393,Dharmajan Lal,North,Home Decor,Cushion Inventore,2,119003.4,12002.32,140424.012
+13395,Chirag Johal,North,Home Decor,Clock Accusantium,2,122958.0,21713.78,145090.44
+13400,Farhan Dutt,North,Clothing,Accessories Veritatis,1,12934.8,2380.71,15263.063999999998
+13407,Zain Goda,North,Beauty,Shampoo Fugit,2,88081.2,6582.94,103935.81599999999
+13410,Purab Verma,North,Groceries,Wheat Nemo,1,9894.0,1105.99,11674.92
+13412,Jhanvi Iyer,North,Toys,Action Figure Nihil,5,113824.0,27974.76,134312.32
+13414,Eva Varghese,North,Books,Biography Minima,2,88359.2,19557.77,104263.85599999999
+13417,Umang Hora,North,Clothing,Kids Wear Iusto,5,121176.0,19344.13,142987.68
+13421,Yuvraj  Sarin,North,Toys,RC Car Omnis,1,42880.8,6261.54,50599.344
+13428,Nitara Srinivas,North,Books,Textbook Beatae,5,102420.0,23303.66,120855.59999999999
+13430,Seher Raja,North,Home Decor,Wall Art Saepe,5,282750.0,58546.01,333645.0
+13434,Indranil Khare,North,Sports,Tennis Racket Laboriosam,1,12276.55,1865.77,14486.328999999998
+13439,Hrishita Bajwa,North,Groceries,Wheat Neque,4,42228.0,8366.99,49829.04
+13444,Vaibhav Suri,North,Home Decor,Lamp Quasi,5,46040.0,4126.8,54327.2
+13446,Pranay Sathe,North,Furniture,Sofa Necessitatibus,4,294756.0,24646.64,347812.07999999996
+13447,Kanav Jhaveri,North,Kitchen,Refrigerator Recusandae,2,101564.0,12437.2,119845.51999999999
+13453,Vivaan Edwin,North,Beauty,Shampoo Excepturi,5,190956.0,41152.93,225328.08
+13464,Hiran Sharaf,North,Clothing,Women's Wear Ratione,5,207242.5,10385.55,244546.15
+13466,Hrishita Master,North,Sports,Football Maiores,1,22703.0,4318.76,26789.539999999997
+13470,Sahil Kuruvilla,North,Books,Non-Fiction Soluta,4,97488.0,15095.78,115035.84
+13472,Purab Sane,North,Furniture,Table Amet,1,21119.2,3370.88,24920.656
+13473,Pihu Sengupta,North,Sports,Tennis Racket Culpa,2,120636.7,26839.18,142351.30599999998
+13475,Fateh Gandhi,North,Sports,Football Occaecati,2,76692.0,9755.04,90496.56
+13477,Gokul Bhagat,North,Electronics,Headphones Accusantium,1,76432.0,11013.85,90189.76
+13478,Heer Bala,North,Books,Textbook Ex,2,115912.0,19267.8,136776.16
+13486,Hazel Chatterjee,North,Books,Comics Iusto,3,216543.0,40729.07,255520.74
+13491,Nirvaan Bawa,North,Clothing,Men's Wear Dolores,4,90582.4,15251.17,106887.23199999999
+13499,Biju Deshpande,North,Books,Textbook Reiciendis,2,84677.4,10268.75,99919.332
+13500,Jayan Thakkar,North,Home Decor,Vase Nostrum,3,206766.0,21263.75,243983.87999999998
+13502,Ritvik Bail,North,Home Decor,Wall Art Similique,2,89860.8,17852.06,106035.74399999999
+13503,Ritvik Rana,North,Clothing,Shoes Ipsam,1,35675.0,3406.84,42096.5
+13517,Charvi Vaidya,North,Kitchen,Juicer Cupiditate,2,74728.6,6562.54,88179.748
+13521,Jivika Magar,North,Furniture,Sofa Non,4,247178.6,44888.67,291670.74799999996
+13525,Prerak Mangat,North,Electronics,Smartwatch Tempora,1,13158.4,2993.92,15526.911999999998
+13526,Trisha Rau,North,Clothing,Accessories Repellat,3,157072.35,19409.35,185345.373
+13534,Inaaya  Viswanathan,North,Beauty,Lipstick Ab,4,89174.4,7677.01,105225.79199999999
+13536,Yasmin Butala,North,Home Decor,Vase Laborum,1,62817.0,5326.09,74124.06
+13543,Siya Sathe,North,Sports,Football In,4,280922.6,67840.71,331488.66799999995
+13548,Sumer Chowdhury,North,Home Decor,Lamp Ipsam,2,86341.7,16245.16,101883.20599999999
+13549,Aarav Bhatia,North,Sports,Dumbbells Ipsa,5,91941.0,9831.89,108490.37999999999
+13552,Misha Shere,North,Home Decor,Lamp Perspiciatis,5,267615.0,65872.81,315785.7
+13556,Amani Madan,North,Home Decor,Vase Ab,4,26812.8,6486.74,31639.103999999996
+13580,Aaina Lanka,North,Sports,Football Accusamus,4,198667.8,15961.65,234428.004
+13586,Ritvik Kale,North,Beauty,Foundation Deleniti,4,53283.6,3108.83,62874.647999999994
+13591,Raghav Sura,North,Books,Biography Nihil,2,118465.6,19835.5,139789.408
+13593,Advika Sachar,North,Furniture,Cabinet Ipsum,3,203583.0,37646.57,240227.93999999997
+13599,Kartik Dua,North,Furniture,Table Totam,2,82105.2,17400.77,96884.136
+13601,Sara Choudhury,North,Beauty,Face Cream Laboriosam,5,84280.0,4856.75,99450.4
+13606,Yasmin Contractor,North,Books,Fiction Voluptates,2,141650.0,29067.19,167147.0
+13611,Advika Mangat,North,Kitchen,Juicer Blanditiis,1,3539.4,242.14,4176.492
+13617,Heer Dugar,North,Clothing,Men's Wear Maxime,2,71208.2,4701.11,84025.67599999999
+13619,Dharmajan Doshi,North,Beauty,Shampoo Accusantium,1,61347.6,9317.28,72390.16799999999
+13624,Taran Deo,North,Electronics,Smartwatch Asperiores,2,85120.7,7878.38,100442.42599999999
+13626,Aarav Kadakia,North,Books,Non-Fiction Suscipit,3,135675.0,16227.09,160096.5
+13627,Piya Rajagopalan,North,Home Decor,Vase Voluptatibus,5,244587.0,28740.91,288612.66
+13628,Kartik Biswas,North,Sports,Cricket Bat Iure,3,44081.85,5764.54,52016.583
+13631,Mohanlal Dada,North,Home Decor,Clock Reprehenderit,4,120615.8,13729.82,142326.644
+13636,Anya Jayaraman,North,Kitchen,Juicer Molestiae,5,258475.0,33531.33,305000.5
+13638,Hridaan Apte,North,Sports,Dumbbells Eveniet,3,17250.0,3349.12,20355.0
+13641,Ryan Behl,North,Home Decor,Clock Iste,1,56223.0,3547.07,66343.14
+13646,Yuvaan Kulkarni,North,Furniture,Chair Labore,4,115878.8,11368.47,136736.984
+13649,Badal Chaudhari,North,Toys,Action Figure Nulla,5,274576.5,40569.94,324000.26999999996
+13650,Jayant Sane,North,Kitchen,Refrigerator Doloremque,2,127176.0,19499.8,150067.68
+13654,Parinaaz Date,North,Furniture,Chair Vel,4,78195.2,10981.46,92270.336
+13667,Arhaan Dhaliwal,North,Clothing,Men's Wear Similique,4,168936.0,19288.02,199344.47999999998
+13669,Navya Kapur,North,Groceries,Sugar Nobis,3,121609.5,27124.05,143499.21
+13672,Mishti Thaker,North,Kitchen,Microwave Odio,3,13572.0,3385.77,16014.96
+13677,Farhan Kala,North,Sports,Cricket Bat Molestias,3,127485.6,9311.45,150433.008
+13678,Pihu Sinha,North,Books,Non-Fiction In,3,27470.4,3942.22,32415.072
+13691,Kanav Acharya,North,Home Decor,Lamp Eligendi,4,202176.0,46283.34,238567.68
+13698,Indrans Deep,North,Sports,Football Occaecati,1,62910.0,11827.45,74233.8
+13701,Saanvi Bala,North,Beauty,Face Cream Quisquam,3,156822.0,7844.5,185049.96
+13703,Romil Sunder,North,Sports,Yoga Mat Consequuntur,2,52700.0,3826.37,62186.0
+13704,Sahil De,North,Beauty,Face Cream Dolorem,5,352179.25,71866.56,415571.51499999996
+13709,Manikya Gara,North,Books,Biography Adipisci,2,88666.9,5256.74,104626.94199999998
+13710,Yasmin Biswas,North,Furniture,Table Quam,5,288341.25,38370.6,340242.675
+13712,Zara Chada,North,Home Decor,Lamp At,2,127712.0,20794.83,150700.16
+13714,Hrishita Mand,North,Electronics,Camera Enim,2,14177.6,1093.5,16729.568
+13716,Jayesh Khalsa,North,Kitchen,Juicer Ullam,3,22318.35,5354.13,26335.653
+13723,Hridaan Guha,North,Electronics,Camera Placeat,3,36987.3,7150.94,43645.014
+13724,Sumer Mann,North,Home Decor,Clock Eaque,5,262545.0,52053.33,309803.1
+13726,Miraya Badami,North,Toys,Puzzle Ullam,3,97658.4,19900.83,115236.91199999998
+13727,Aarush Dhingra,North,Electronics,Mobile Illo,3,13545.0,2465.9,15983.099999999999
+13729,Riaan Hayre,North,Beauty,Face Cream Exercitationem,2,143047.8,28493.2,168796.40399999998
+13730,Arhaan Saxena,North,Toys,Action Figure Ab,5,116472.0,17210.26,137436.96
+13731,Azad Dhillon,North,Electronics,Smartwatch Eum,5,299960.75,30248.57,353953.685
+13736,Keya Saha,North,Furniture,Cabinet Occaecati,3,63931.2,10476.66,75438.81599999999
+13738,Pranay Balan,North,Toys,Board Game Praesentium,1,3114.4,310.74,3674.9919999999997
+13741,Rati Boase,North,Home Decor,Lamp Recusandae,4,295222.0,39391.98,348361.95999999996
+13750,Miraan Soman,North,Beauty,Lipstick Fuga,5,323365.75,56820.68,381571.58499999996
+13752,Gokul Maharaj,North,Home Decor,Vase Consectetur,2,35484.8,8739.15,41872.064
+13753,Aarav Handa,North,Books,Biography Tempora,2,79061.9,8747.7,93293.04199999999
+13758,Emir Shere,North,Clothing,Accessories Iusto,4,215092.8,28142.22,253809.504
+13764,Kabir Sarma,North,Electronics,Laptop Fuga,2,50323.4,4266.94,59381.612
+13766,Gokul Hayer,North,Home Decor,Clock Voluptates,3,159454.05,13180.19,188155.77899999998
+13768,Samarth Koshy,North,Groceries,Spices Eaque,3,131567.25,13771.3,155249.35499999998
+13770,Nitya Rattan,North,Kitchen,Mixer Grinder Explicabo,5,111195.0,26086.95,131210.1
+13771,Ojas Doshi,North,Furniture,Cabinet Enim,5,181580.0,44696.01,214264.4
+13773,Sumer Dalal,North,Electronics,Laptop Nisi,5,204116.0,36293.56,240856.87999999998
+13774,Tarini Bakshi,North,Sports,Dumbbells Nesciunt,1,19167.2,1979.73,22617.296
+13777,Seher Bhardwaj,North,Home Decor,Vase Doloremque,2,102676.0,5758.22,121157.68
+13780,Sara Keer,North,Sports,Cricket Bat Doloremque,5,343630.0,60282.44,405483.39999999997
+13782,Rohan Gulati,North,Furniture,Table Harum,2,25697.5,2936.71,30323.05
+13783,Siya Dash,North,Groceries,Oil Velit,5,265016.0,56861.84,312718.88
+13784,Navya Thakur,North,Beauty,Foundation Veniam,3,41993.1,4879.04,49551.85799999999
+13787,Arnav Viswanathan,North,Furniture,Table Nam,1,21883.25,2729.64,25822.234999999997
+13796,Seher Balay,North,Toys,Doll Deserunt,2,70767.6,8791.86,83505.768
+13799,Nayantara Babu,North,Sports,Cricket Bat Quam,4,58544.6,12592.14,69082.628
+13802,Emir Chauhan,North,Sports,Football Placeat,1,22984.2,1658.79,27121.356
+13808,Vihaan Cherian,North,Sports,Cricket Bat Ea,4,48466.8,6880.3,57190.824
+13816,Rasha Golla,North,Home Decor,Wall Art Excepturi,5,82560.0,7916.19,97420.79999999999
+13819,Lakshay Balay,North,Beauty,Foundation Pariatur,2,133929.0,7482.25,158036.22
+13821,Umang Gupta,North,Home Decor,Lamp Omnis,5,150564.75,34871.16,177666.405
+13823,Darshit Gera,North,Furniture,Table Voluptatum,5,101235.0,25010.39,119457.29999999999
+13826,Nirvaan Datta,North,Kitchen,Microwave Reiciendis,5,338067.0,61986.26,398919.06
+13829,Hazel Ramachandran,North,Home Decor,Lamp Consequuntur,4,74993.8,5611.62,88492.684
+13836,Aaryahi Bal,North,Groceries,Wheat Dolore,4,117718.2,21648.73,138907.476
+13843,Purab Sarraf,North,Home Decor,Wall Art Error,3,166620.0,25352.97,196611.59999999998
+13844,Kanav Luthra,North,Beauty,Lipstick Quidem,4,134684.2,13402.41,158927.356
+13845,Trisha Majumdar,North,Furniture,Sofa Fugiat,3,127963.8,25034.84,150997.28399999999
+13848,Azad Khurana,North,Electronics,Headphones Tempora,3,150129.0,16029.1,177152.22
+13849,Nirvi Chana,North,Clothing,Women's Wear Laudantium,1,25700.0,2074.63,30326.0
+13865,Indranil Gokhale,North,Books,Non-Fiction Exercitationem,4,122458.8,8662.03,144501.384
+13867,Heer Sathe,North,Kitchen,Microwave Velit,3,63268.8,10536.95,74657.184
+13868,Fateh Bahl,North,Beauty,Perfume Alias,4,22348.0,2065.85,26370.64
+13869,Kashvi Barad,North,Clothing,Women's Wear Inventore,2,72440.4,11698.87,85479.67199999999
+13870,Bhavin Dhingra,North,Clothing,Accessories Qui,5,35886.25,7789.32,42345.774999999994
+13871,Aarna Kunda,North,Kitchen,Refrigerator Temporibus,2,75633.6,5582.6,89247.648
+13873,Nakul Singh,North,Toys,Board Game Quisquam,4,86948.2,9576.93,102598.87599999999
+13874,Azad Sathe,North,Beauty,Lipstick Laborum,4,261928.0,55149.77,309075.04
+13875,Jivin Sheth,North,Electronics,Headphones Animi,3,89915.55,10235.32,106100.349
+13882,Keya Tandon,North,Clothing,Shoes Earum,3,115677.6,10571.59,136499.568
+13885,Manjari Trivedi,North,Clothing,Men's Wear Praesentium,4,189040.0,28934.68,223067.19999999998
+13891,Aaina Maharaj,North,Sports,Football Tempora,5,276288.5,50119.67,326020.43
+13893,Anahi Varkey,North,Home Decor,Cushion Eos,4,162521.6,20075.01,191775.48799999998
+13894,Stuvan Datta,North,Clothing,Kids Wear Molestiae,5,42902.0,9026.75,50624.36
+13903,Riaan Kalita,North,Sports,Yoga Mat Quo,4,176608.0,37699.47,208397.44
+13907,Armaan Kalita,North,Groceries,Wheat Perspiciatis,4,102272.4,6215.97,120681.43199999999
+13908,Tanya Barad,North,Books,Biography Sint,4,40089.4,8210.41,47305.492
+13909,Kiara Ben,North,Beauty,Foundation Molestiae,2,49332.0,10545.56,58211.759999999995
+13913,Jayant Joshi,North,Home Decor,Vase Fugiat,1,3717.6,657.81,4386.768
+13916,Romil Saha,North,Beauty,Foundation Alias,3,3955.05,342.09,4666.959
+13917,Nitya Bandi,North,Toys,Action Figure Eaque,4,177922.8,17732.94,209948.90399999998
+13921,Badal Desai,North,Clothing,Men's Wear Sapiente,3,85286.4,20838.06,100637.95199999999
+13928,Yakshit Ramachandran,North,Clothing,Accessories Architecto,1,50399.9,6193.37,59471.882
+13931,Arnav Kunda,North,Electronics,Smartwatch Nostrum,4,6836.0,1085.47,8066.48
+13935,Lakshay Mall,North,Groceries,Sugar Iure,5,208059.5,37267.99,245510.21
+13938,Samaira Ramakrishnan,North,Clothing,Women's Wear Quidem,4,274876.8,25096.29,324354.62399999995
+13945,Tushar Dua,North,Groceries,Rice In,2,59411.2,6255.84,70105.21599999999
+13949,Alia Salvi,North,Kitchen,Refrigerator Enim,2,40048.2,6850.89,47256.876
+13955,Tushar Gera,North,Home Decor,Clock Quia,1,46636.1,5628.13,55030.598
+13956,Ira Rastogi,North,Furniture,Bed Officia,2,64024.3,4799.5,75548.674
+13957,Vaibhav Bava,North,Beauty,Foundation Similique,5,12195.0,1602.1,14390.099999999999
+13962,Ryan Lanka,North,Toys,Action Figure Asperiores,5,74125.0,9274.27,87467.5
+13969,Amani Apte,North,Home Decor,Wall Art Laboriosam,4,154908.8,15605.01,182792.384
+13972,Uthkarsh Viswanathan,North,Furniture,Bed Autem,5,307660.0,17078.5,363038.8
+13979,Prerak Sawhney,North,Books,Textbook Repudiandae,2,31392.0,1800.79,37042.56
+13980,Abram Lata,North,Groceries,Wheat Aspernatur,2,127910.0,10570.02,150933.8
+13981,Arhaan Sidhu,North,Furniture,Cabinet Occaecati,5,27513.0,5304.31,32465.339999999997
+13984,Vihaan Dani,North,Sports,Dumbbells Rerum,4,221072.0,25935.21,260864.96
+13985,Aaina Sagar,North,Sports,Cricket Bat Aperiam,1,49113.0,10380.7,57953.34
+13987,Adira Bansal,North,Sports,Tennis Racket Doloremque,2,41674.0,10172.62,49175.32
+13989,Nirvaan Master,North,Kitchen,Refrigerator Ipsum,1,63796.5,6201.21,75279.87
+13990,Umang Chahal,North,Books,Comics Eveniet,5,55455.0,2989.92,65436.899999999994
+13992,Rati Banerjee,North,Kitchen,Refrigerator Aliquid,5,311746.0,42399.24,367860.27999999997
+13993,Dhanush Tara,North,Beauty,Foundation Tempora,4,85952.0,13599.09,101423.36
+13995,Anahi Choudhry,North,Kitchen,Mixer Grinder Nisi,3,141091.2,25543.61,166487.616
+14006,Vidur Deol,North,Sports,Dumbbells Ullam,4,84068.0,11855.58,99200.23999999999
+14007,Dhanuk Saxena,North,Sports,Cricket Bat Quos,3,138204.0,9449.04,163080.72
+14013,Kiara Chopra,North,Sports,Dumbbells Omnis,2,3450.0,748.85,4071.0
+14018,Alia Rau,North,Books,Fiction Adipisci,3,137109.6,29038.47,161789.328
+14021,Akarsh Swamy,North,Furniture,Table Iure,4,235716.0,17376.84,278144.88
+14024,Jivin Jani,North,Clothing,Accessories Voluptatum,4,259436.0,19911.6,306134.48
+14025,Ishita Chowdhury,North,Home Decor,Vase Quas,1,32903.0,7497.82,38825.54
+14027,Dhanush Jha,North,Furniture,Cabinet Cupiditate,1,24974.1,2221.99,29469.438
+14031,Aaryahi Wadhwa,North,Clothing,Shoes Aliquid,4,250899.6,61074.47,296061.528
+14032,Kashvi Manne,North,Toys,Action Figure Adipisci,4,80886.0,15562.74,95445.48
+14033,Yasmin Kala,North,Home Decor,Lamp Nesciunt,3,191451.6,27647.04,225912.888
+14035,Jayan Shenoy,North,Sports,Cricket Bat Nisi,1,39461.0,6204.78,46563.979999999996
+14040,Indranil Ramesh,North,Books,Biography Quasi,3,62302.5,7202.57,73516.95
+14041,Myra Bath,North,Furniture,Cabinet Saepe,1,63947.35,14977.88,75457.87299999999
+14042,Lakshay Konda,North,Furniture,Table Pariatur,5,268276.0,46456.92,316565.68
+14048,Neelofar Borde,North,Toys,Board Game Sint,3,99133.8,11933.13,116977.88399999999
+14049,Myra Divan,North,Kitchen,Cookware Set Quibusdam,2,65854.4,8012.31,77708.192
+14061,Ishita Sarin,North,Home Decor,Vase Tempore,5,86415.25,9457.65,101969.995
+14067,Saksham Srivastava,North,Toys,Board Game Quae,5,118728.0,16896.36,140099.03999999998
+14084,Heer Johal,North,Clothing,Women's Wear Deserunt,4,250950.4,35255.58,296121.47199999995
+14086,Lakshay Batra,North,Books,Non-Fiction Aspernatur,1,66063.6,7545.82,77955.04800000001
+14091,Badal Lala,North,Beauty,Shampoo Minus,5,21006.0,1257.33,24787.079999999998
+14092,Uthkarsh Jani,North,Home Decor,Cushion Neque,2,147658.5,7475.99,174237.03
+14102,Vihaan Bhatti,North,Home Decor,Lamp Numquam,2,35560.0,2233.93,41960.799999999996
+14105,Himmat Sandhu,North,Sports,Dumbbells Dolores,5,184080.0,43927.31,217214.4
+14107,Nayantara Kata,North,Furniture,Bed Ab,1,47875.5,3040.78,56493.09
+14111,Eshani Ganguly,North,Books,Comics Quibusdam,3,1848.75,432.21,2181.525
+14116,Adira Dhingra,North,Furniture,Cabinet Aut,2,126834.0,14328.53,149664.12
+14117,Mannat Ramakrishnan,North,Home Decor,Wall Art Vitae,2,41517.0,9030.97,48990.06
+14118,Nitya Bobal,North,Home Decor,Cushion Nam,3,137345.55,19064.46,162067.74899999998
+14119,Nakul Kade,North,Furniture,Table A,4,4031.8,373.89,4757.524
+14120,Purab Gole,North,Home Decor,Clock Ducimus,4,224043.0,55562.67,264370.74
+14129,Shlok Kamdar,North,Clothing,Women's Wear Fugiat,1,46429.0,8711.49,54786.219999999994
+14136,Lagan Kaul,North,Beauty,Lipstick Tempora,5,174633.75,39512.52,206067.82499999998
+14137,Baiju Ben,North,Beauty,Shampoo Earum,5,167340.0,21070.91,197461.19999999998
+14140,Arhaan Char,North,Electronics,Smartwatch Veritatis,4,222145.8,42293.92,262132.04399999997
+14141,Jiya Chanda,North,Toys,Board Game Earum,5,248260.0,29959.35,292946.8
+14149,Shray Chakrabarti,North,Beauty,Face Cream Impedit,3,69007.05,10987.17,81428.319
+14158,Aaina Shenoy,North,Sports,Dumbbells Commodi,4,229612.2,56186.79,270942.396
+14162,Aniruddh Batra,North,Electronics,Camera Maxime,5,112459.25,17768.0,132701.91499999998
+14163,Advik Ganesan,North,Groceries,Spices Minus,1,23658.8,2127.44,27917.384
+14164,Raghav Bhat,North,Books,Comics Doloribus,4,40284.8,4654.18,47536.064
+14165,Samaira Hegde,North,Sports,Tennis Racket Doloremque,2,58688.0,4597.42,69251.84
+14166,Ehsaan Date,North,Beauty,Perfume Dignissimos,1,7720.55,1853.99,9110.249
+14167,Kismat Batra,North,Clothing,Shoes Magnam,1,79625.0,4506.9,93957.5
+14173,Navya Sur,North,Home Decor,Clock Doloribus,5,40837.5,3607.38,48188.25
+14176,Saira Contractor,North,Toys,Action Figure Rerum,5,63490.0,12308.33,74918.2
+14177,Vihaan Dash,North,Kitchen,Refrigerator Fugit,2,83269.4,7827.1,98257.89199999999
+14187,Rania Wali,North,Kitchen,Refrigerator Voluptates,4,116742.4,23264.65,137756.03199999998
+14189,Navya Mann,North,Clothing,Shoes Incidunt,4,196387.2,43158.03,231736.896
+14192,Bhavin Sarraf,North,Groceries,Spices Libero,1,50868.7,9767.24,60025.06599999999
+14218,Samarth Wali,North,Electronics,Smartwatch Sapiente,2,32954.0,5042.66,38885.72
+14221,Anay Ramachandran,North,Beauty,Face Cream Mollitia,1,9568.4,1572.71,11290.712
+14225,Aniruddh Mander,North,Books,Biography Temporibus,1,66879.05,15026.25,78917.279
+14239,Indranil Kalla,North,Furniture,Cabinet Earum,5,259628.0,28981.01,306361.04
+14241,Faiyaz Ravel,North,Clothing,Accessories Reprehenderit,5,50563.75,3476.27,59665.225
+14242,Purab Dada,North,Groceries,Wheat Doloribus,2,6368.4,1308.71,7514.7119999999995
+14243,Dhanuk D’Alia,North,Toys,Doll Assumenda,1,28703.3,3668.91,33869.894
+14244,Badal Tank,North,Furniture,Cabinet Hic,5,136937.75,8604.56,161586.54499999998
+14247,Yakshit Biswas,North,Books,Non-Fiction Numquam,3,54445.05,3384.36,64245.159
+14261,Madhav Sahni,North,Furniture,Sofa Maiores,2,124005.6,22523.65,146326.608
+14263,Mohanlal Bath,North,Books,Biography Iusto,2,120297.1,28266.87,141950.578
+14266,Ritvik Lad,North,Kitchen,Juicer Officia,4,145915.2,16116.01,172179.93600000002
+14271,Miraan Dugar,North,Groceries,Oil Doloremque,2,77976.0,14177.76,92011.68
+14274,Nakul Jani,North,Electronics,Headphones Deserunt,1,42151.2,7150.82,49738.416
+14289,Charvi Mandal,North,Kitchen,Cookware Set Vero,1,15987.65,3254.85,18865.427
+14293,Lavanya Shan,North,Books,Textbook Accusamus,2,44625.6,3583.18,52658.208
+14296,Baiju Kuruvilla,North,Groceries,Spices Sapiente,2,89628.0,21512.84,105761.04
+14307,Misha Kota,North,Clothing,Men's Wear Sapiente,4,44330.8,8976.0,52310.344
+14318,Shanaya Jaggi,North,Beauty,Face Cream Laboriosam,1,27307.95,2029.38,32223.380999999998
+14320,Shanaya Shan,North,Clothing,Men's Wear Dolorum,4,134650.8,24414.61,158887.944
+14322,Dharmajan Sridhar,North,Electronics,Headphones Animi,4,228886.4,22035.51,270085.952
+14325,Manikya Ravel,North,Clothing,Kids Wear Necessitatibus,2,140425.2,22250.51,165701.736
+14348,Samiha Kar,North,Furniture,Cabinet Ducimus,2,3884.8,607.5,4584.064
+14349,Divij Doctor,North,Groceries,Sugar Dolore,5,226933.0,29138.95,267780.94
+14355,Anay Sandhu,North,Toys,RC Car Sequi,4,285316.0,44267.62,336672.88
+14356,Madhup Saxena,North,Electronics,Laptop Similique,4,249346.8,39813.41,294229.224
+14358,Shlok Rau,North,Books,Textbook Provident,1,7971.3,1877.65,9406.134
+14361,Kimaya Agate,North,Sports,Yoga Mat Est,3,1591.2,132.58,1877.616
+14363,Vanya Magar,North,Groceries,Spices Eum,2,51059.2,11797.61,60249.85599999999
+14365,Jayesh Lall,North,Home Decor,Wall Art Laborum,2,35422.0,7166.34,41797.96
+14368,Rati Handa,North,Sports,Tennis Racket Dicta,5,191142.0,22835.87,225547.56
+14380,Diya Jha,North,Electronics,Headphones Accusantium,5,257524.5,18555.34,303878.91
+14384,Neelofar Warrior,North,Kitchen,Cookware Set Blanditiis,4,279892.8,17589.47,330273.50399999996
+14386,Tara Raju,North,Home Decor,Lamp Deserunt,1,63918.4,11228.51,75423.712
+14393,Zoya Joshi,North,Kitchen,Cookware Set Dolor,4,160286.2,33283.48,189137.71600000001
+14397,Nirvaan Arora,North,Kitchen,Mixer Grinder Officiis,2,4438.7,849.33,5237.665999999999
+14398,Oorja Varma,North,Groceries,Sugar Rem,5,30527.75,4948.74,36022.744999999995
+14402,Riaan Ray,North,Books,Biography Reiciendis,3,167571.0,15138.13,197733.78
+14411,Heer Chatterjee,North,Sports,Dumbbells Asperiores,2,125907.3,30852.36,148570.614
+14412,Kiara Saraf,North,Toys,RC Car Illo,1,14051.2,3117.82,16580.416
+14413,Taran Chaudhary,North,Sports,Yoga Mat Voluptate,5,76783.75,14622.8,90604.825
+14414,Aniruddh Varghese,North,Furniture,Sofa Explicabo,5,115153.75,8987.42,135881.425
+14415,Biju Edwin,North,Home Decor,Wall Art Sequi,3,44769.0,3643.06,52827.42
+14428,Tejas Bora,North,Books,Textbook Omnis,5,174705.0,33211.51,206151.9
+14438,Tejas Vora,North,Groceries,Rice Tenetur,5,186736.5,26730.69,220349.06999999998
+14446,Anay Sharaf,North,Groceries,Wheat Autem,3,155873.7,23254.14,183930.96600000001
+14447,Diya Divan,North,Beauty,Face Cream Laboriosam,3,196956.0,33194.73,232408.08
+14450,Miraya Amble,North,Clothing,Accessories Pariatur,1,30735.0,1988.87,36267.299999999996
+14455,Farhan Kari,North,Kitchen,Juicer Tempora,3,53687.7,8755.04,63351.48599999999
+14457,Pihu Karpe,North,Furniture,Bed Minus,3,32413.05,7330.4,38247.399
+14459,Aayush Sur,North,Books,Comics Qui,4,158786.8,19939.77,187368.42399999997
+14464,Oorja Hegde,North,Books,Biography Maxime,5,134181.0,24989.79,158333.58
+14468,Indranil Guha,North,Beauty,Face Cream Unde,2,44816.4,8961.81,52883.352
+14469,Dhanush Yogi,North,Groceries,Wheat Suscipit,5,281396.0,35694.42,332047.27999999997
+14470,Kaira Dass,North,Beauty,Perfume Temporibus,1,47840.55,10518.95,56451.849
+14482,Shamik Vyas,North,Clothing,Men's Wear Ad,4,130842.0,6607.11,154393.56
+14484,Adah Gokhale,North,Sports,Yoga Mat Incidunt,1,37775.2,6868.87,44574.736
+14488,Himmat Zachariah,North,Kitchen,Refrigerator Ipsa,5,108240.0,24320.48,127723.2
+14493,Mannat Sodhi,North,Furniture,Sofa Vitae,5,278347.5,45876.9,328450.05
+14512,Vaibhav Gokhale,North,Clothing,Men's Wear Similique,4,95488.0,18486.04,112675.84
+14516,Himmat Mannan,North,Kitchen,Microwave Neque,2,88210.8,18676.64,104088.74399999999
+14519,Rohan Ramachandran,North,Electronics,Camera Atque,2,115785.0,23937.05,136626.3
+14529,Trisha Bhargava,North,Toys,Action Figure Sunt,4,98009.6,15014.9,115651.328
+14534,Rati Singhal,North,Clothing,Accessories Rem,3,20613.6,2863.97,24324.047999999995
+14539,Dhruv Kata,North,Clothing,Women's Wear Deserunt,5,133798.5,25623.16,157882.22999999998
+14540,Trisha Ram,North,Sports,Dumbbells A,1,71696.5,13877.65,84601.87
+14541,Alisha Doctor,North,Sports,Yoga Mat Consectetur,2,3876.0,360.92,4573.679999999999
+14542,Keya Walia,North,Toys,Action Figure Velit,1,70668.6,8123.08,83388.948
+14547,Aarush Mandal,North,Electronics,Headphones Non,3,139612.5,12103.4,164742.75
+14555,Anvi Trivedi,North,Electronics,Camera Explicabo,4,174742.4,29651.53,206196.03199999998
+14560,Alisha Walla,North,Home Decor,Vase A,3,91874.4,9971.38,108411.79199999999
+14562,Myra Dalal,North,Beauty,Shampoo Quisquam,2,110880.0,20590.35,130838.4
+14566,Priyansh Mahajan,North,Groceries,Wheat Corporis,4,162108.0,28163.45,191287.44
+14570,Charvi Lala,North,Electronics,Mobile Quam,4,81200.0,12348.54,95816.0
+14577,Taimur Comar,North,Beauty,Foundation Dolorum,2,93244.0,5623.38,110027.92
+14579,Seher Shetty,North,Kitchen,Refrigerator Impedit,5,71307.0,15010.02,84142.26
+14581,Aniruddh Bhavsar,North,Books,Fiction Quos,5,266460.75,29233.39,314423.685
+14582,Ranbir Sehgal,North,Books,Fiction Eos,1,44617.0,8399.67,52648.06
+14587,Saanvi Dugar,North,Toys,Action Figure Suscipit,2,84473.0,9125.98,99678.14
+14588,Mamooty Kaul,North,Clothing,Shoes Cum,1,31528.8,3488.26,37203.984
+14593,Nirvi Raj,North,Sports,Yoga Mat Eveniet,1,2635.0,347.17,3109.2999999999997
+14595,Divij Dixit,North,Furniture,Sofa Voluptas,1,68175.0,5299.2,80446.5
+14600,Dhanuk Yadav,North,Kitchen,Refrigerator Velit,2,98005.0,8250.4,115645.9
+14602,Tiya Dhar,North,Books,Biography Molestias,1,36987.75,3373.19,43645.545
+14603,Parinaaz Dixit,North,Groceries,Wheat Animi,3,53805.6,7062.92,63490.60799999999
+14604,Rasha Johal,North,Clothing,Women's Wear Corrupti,3,127152.75,12407.21,150040.245
+14618,Ishita Keer,North,Sports,Cricket Bat Aut,3,149940.0,28107.56,176929.19999999998
+14620,Veer D’Alia,North,Furniture,Chair Adipisci,3,161514.0,11816.56,190586.52
+14622,Nayantara Mammen,North,Furniture,Chair Excepturi,2,142120.8,12670.11,167702.54399999997
+14623,Ranbir Kumar,North,Kitchen,Juicer Fugit,2,25198.4,2935.24,29734.112
+14629,Siya Hora,North,Toys,Board Game Modi,4,38334.4,3468.32,45234.592
+14632,Lakshay Malhotra,North,Furniture,Table Voluptates,4,105002.2,15147.86,123902.59599999999
+14636,Alia Sibal,North,Home Decor,Cushion Similique,3,112586.4,22653.42,132851.952
+14640,Jayant Agate,North,Groceries,Oil Mollitia,2,34473.6,1899.24,40678.848
+14644,Dhanush Ratti,North,Home Decor,Clock Recusandae,5,275152.0,59336.8,324679.36
+14649,Ela Ghose,North,Clothing,Women's Wear Dignissimos,1,55654.4,10611.14,65672.192
+14652,Faiyaz Mand,North,Beauty,Shampoo Id,2,115526.9,28589.33,136321.742
+14653,Advika Brahmbhatt,North,Furniture,Chair Quisquam,3,74393.1,14327.42,87783.85800000001
+14654,Jhanvi Sem,North,Kitchen,Mixer Grinder Neque,2,102193.8,16800.89,120588.684
+14659,Sana Ramanathan,North,Home Decor,Clock Porro,4,254435.6,61038.1,300234.008
+14661,Anahi Bhagat,North,Home Decor,Wall Art Quos,1,58116.0,13838.66,68576.87999999999
+14665,Kiaan Yohannan,North,Kitchen,Microwave Provident,3,44811.9,5527.72,52878.042
+14668,Hrishita Bath,North,Books,Biography Deserunt,5,64281.75,7907.34,75852.465
+14669,Tejas Bal,North,Toys,Doll Ducimus,1,56458.8,7908.1,66621.384
+14686,Heer Solanki,North,Electronics,Smartwatch Mollitia,3,123082.95,28621.7,145237.881
+14688,Raghav Grover,North,Clothing,Kids Wear Quia,2,119948.0,20199.52,141538.63999999998
+14693,Kiara Gara,North,Home Decor,Clock Et,4,274276.4,58464.48,323646.152
+14696,Armaan Thakkar,North,Clothing,Women's Wear Fugiat,5,370685.0,39294.02,437408.3
+14701,Riaan Kumar,North,Home Decor,Wall Art Quos,1,50451.2,12529.73,59532.41599999999
+14710,Parinaaz Mahal,North,Groceries,Oil Iste,2,26681.7,4415.46,31484.406
+14716,Manjari Srivastava,North,Sports,Dumbbells Assumenda,3,45494.55,9243.25,53683.569
+14719,Samiha Ray,North,Groceries,Spices Vero,2,37916.0,2905.37,44740.88
+14720,Sana Chaudhry,North,Clothing,Accessories Fuga,4,205100.8,19431.51,242018.94399999996
+14726,Neelofar Jhaveri,North,Sports,Tennis Racket Eum,3,135523.8,13244.37,159918.08399999997
+14727,Riya Ray,North,Electronics,Laptop Et,4,189935.4,16343.07,224123.77199999997
+14728,Divit Borde,North,Books,Textbook Est,5,114904.0,18320.77,135586.72
+14729,Piya Bhatnagar,North,Books,Fiction Maxime,2,50998.3,3762.69,60177.994
+14730,Nitya Bandi,North,Kitchen,Mixer Grinder Explicabo,3,133247.7,29533.21,157232.286
+14732,Advik Chakrabarti,North,Home Decor,Wall Art Maxime,1,33011.55,6553.35,38953.629
+14734,Riaan Kapadia,North,Toys,Action Figure Distinctio,2,38484.0,9220.31,45411.119999999995
+14745,Charvi Chana,North,Furniture,Chair Adipisci,4,75373.2,10914.77,88940.37599999999
+14753,Lakshay Sahota,North,Electronics,Camera Error,5,208903.5,22297.59,246506.12999999998
+14756,Kismat Buch,North,Groceries,Wheat Sint,2,15589.0,3591.92,18395.02
+14762,Armaan Rana,North,Groceries,Spices Ea,4,249716.4,53198.93,294665.35199999996
+14767,Anya Ranganathan,North,Home Decor,Lamp Vitae,5,44607.25,10310.86,52636.555
+14774,Mohanlal Badal,North,Groceries,Rice Error,5,279550.0,29798.57,329869.0
+14776,Aaryahi Loyal,North,Clothing,Kids Wear Eaque,4,47734.4,2733.52,56326.592
+14786,Lakshay Tara,North,Home Decor,Wall Art Culpa,1,21343.2,2122.3,25184.976
+14787,Divit Subramaniam,North,Clothing,Women's Wear Eum,4,69000.4,14742.92,81420.472
+14790,Drishya Brar,North,Home Decor,Clock Iusto,4,197305.6,12488.94,232820.608
+14792,Ehsaan Bumb,North,Sports,Yoga Mat Totam,2,72241.5,3997.8,85244.97
+14796,Drishya Kakar,North,Books,Non-Fiction Ab,4,113101.0,25839.19,133459.18
+14799,Hiran Halder,North,Books,Fiction Ipsum,5,221337.0,14531.62,261177.65999999997
+14800,Fateh Bakshi,North,Clothing,Shoes Architecto,5,65046.5,3297.57,76754.87
+14802,Tarini Shere,North,Beauty,Lipstick Quis,1,3806.1,494.38,4491.197999999999
+14806,Ishita Manda,North,Kitchen,Mixer Grinder Ab,3,151865.1,22798.74,179200.818
+14807,Mahika Sabharwal,North,Books,Fiction Eligendi,1,19545.6,1103.52,23063.807999999997
+14810,Armaan Sem,North,Toys,Puzzle At,5,173548.0,8728.88,204786.63999999998
+14818,Jayan Saran,North,Clothing,Accessories Soluta,1,6845.7,375.3,8077.9259999999995
+14829,Onkar Guha,North,Beauty,Lipstick Saepe,4,206371.2,16232.19,243518.016
+14830,Urvi Kaul,North,Home Decor,Clock Officiis,3,70446.0,9047.77,83126.28
+14832,Arhaan Datta,North,Clothing,Accessories Culpa,3,16207.8,3867.62,19125.203999999998
+14833,Lavanya Bhasin,North,Clothing,Kids Wear Commodi,3,52445.7,9802.46,61885.92599999999
+14838,Kavya Barman,North,Furniture,Bed Reprehenderit,1,43572.7,4384.18,51415.78599999999
+14840,Pari Chandra,North,Furniture,Bed Itaque,4,167572.8,37365.07,197735.90399999998
+14843,Samiha Sarna,North,Furniture,Sofa Natus,3,70353.0,12996.7,83016.54
+14850,Indranil Bath,North,Beauty,Shampoo Et,3,157103.4,21634.02,185382.012
+14852,Taran Khalsa,North,Sports,Tennis Racket Culpa,5,367179.75,63169.35,433272.105
+14853,Darshit Chakrabarti,North,Clothing,Kids Wear Exercitationem,5,18328.0,2717.3,21627.039999999997
+14857,Shayak Tara,North,Beauty,Shampoo Consectetur,2,109884.8,7093.77,129664.064
+14862,Emir Bhatt,North,Kitchen,Juicer Modi,1,35834.95,6612.44,42285.240999999995
+14865,Prisha Khurana,North,Home Decor,Wall Art Consequatur,1,73929.0,6817.23,87236.22
+14868,Lakshit Rajagopalan,North,Clothing,Kids Wear Nesciunt,1,12909.0,1655.08,15232.619999999999
+14879,Ishita Kaur,North,Toys,RC Car Voluptate,5,114471.0,14999.14,135075.78
+14886,Mannat Yadav,North,Furniture,Sofa Dolor,5,354706.25,21695.58,418553.375
+14891,Raghav Bhargava,North,Furniture,Table Beatae,3,226355.55,37482.7,267099.549
+14907,Kavya Hegde,North,Groceries,Spices Harum,5,179220.0,12690.94,211479.59999999998
+14913,Miraya Goel,North,Groceries,Rice Impedit,3,191932.2,24958.06,226479.996
+14916,Pihu Saraf,North,Sports,Dumbbells Dignissimos,2,47941.2,5258.87,56570.615999999995
+14923,Dhanuk Kibe,North,Furniture,Chair Quisquam,1,21404.7,3877.56,25257.546
+14933,Biju Butala,North,Books,Non-Fiction Repellat,4,11954.8,2797.54,14106.663999999999
+14934,Anahita Gokhale,North,Kitchen,Juicer Eligendi,3,236034.0,23564.04,278520.12
+14944,Drishya Goswami,North,Home Decor,Vase Nobis,5,57690.0,3438.44,68074.2
+14945,Veer Bhakta,North,Groceries,Spices Perferendis,2,89572.0,10310.84,105694.95999999999
+14948,Trisha Upadhyay,North,Furniture,Table Provident,1,26509.6,2908.25,31281.327999999998
+14949,Yakshit Das,North,Electronics,Mobile Sequi,3,70372.35,11550.34,83039.373
+14958,Urvi Bhavsar,North,Books,Fiction Neque,2,22325.0,4532.09,26343.5
+14959,Madhup Ganesan,North,Toys,Board Game Sed,2,30371.5,5935.88,35838.369999999995
+14962,Urvi Mammen,North,Clothing,Accessories Magnam,5,135704.0,8332.39,160130.72
+14968,Ritvik Salvi,North,Books,Comics Suscipit,4,169640.0,40015.37,200175.19999999998
+14969,Suhana Bail,North,Beauty,Face Cream Laborum,1,54989.8,2753.58,64887.964
+14970,Manjari Sachdev,North,Furniture,Sofa Mollitia,2,29036.8,6983.13,34263.424
+14976,Kiaan Zachariah,North,Electronics,Camera Laudantium,3,25908.0,4060.42,30571.44
+14979,Aaryahi Chada,North,Furniture,Cabinet Aperiam,5,229376.75,47469.28,270664.565
+14982,Ishita Subramaniam,North,Groceries,Wheat Adipisci,2,127513.6,15071.89,150466.048
+14988,Priyansh Lata,North,Sports,Cricket Bat At,5,240496.0,13999.63,283785.27999999997
+14993,Bhamini Sarin,North,Groceries,Rice Neque,3,39087.9,2939.6,46123.722
+14995,Hunar Vaidya,North,Sports,Tennis Racket Omnis,1,61995.6,5224.04,73154.80799999999
+14997,Aaina Chander,North,Toys,Doll Nulla,5,350240.0,31237.23,413283.19999999995

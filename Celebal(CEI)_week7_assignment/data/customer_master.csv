@@ -1,0 +1,21 @@
+Customer_ID,Customer_Name,Email,City,Phone,Join_Date,Status
+101,Amit Singh,amit@gmail.com,Jaipur,9876543210,2024-01-15,Active
+102,Rahul Sharma,rahul@gmail.com,Delhi,9876543211,2024-02-01,Active
+103,Priya Gupta,priya@gmail.com,Mumbai,9876543212,2024-03-10,Active
+104,Neha Verma,neha@gmail.com,Pune,9876543213,2024-03-15,Inactive
+105,Karan Patel,karan@gmail.com,Ahmedabad,9876543214,2024-04-20,Active
+106,Sneha Joshi,sneha@gmail.com,Indore,9876543215,2024-05-12,Active
+107,Rohan Mehta,rohan@gmail.com,Lucknow,9876543216,2024-06-05,Active
+108,Anjali Sharma,anjali@gmail.com,Bhopal,9876543217,2024-06-20,Inactive
+109,Vikas Jain,vikas@gmail.com,Kota,9876543218,2024-07-01,Active
+110,Pooja Singh,pooja@gmail.com,Udaipur,9876543219,2024-07-15,Active
+111,Ritesh Kumar,ritesh@gmail.com,Patna,9876543220,2024-08-02,Active
+112,Komal Verma,komal@gmail.com,Delhi,9876543221,2024-08-18,Active
+113,Arjun Kapoor,arjun@gmail.com,Chandigarh,9876543222,2024-09-01,Active
+114,Nisha Patel,nisha@gmail.com,Surat,9876543223,2024-09-10,Inactive
+115,Deepak Yadav,deepak@gmail.com,Jaipur,9876543224,2024-10-05,Active
+116,Simran Kaur,simran@gmail.com,Amritsar,9876543225,2024-10-15,Active
+117,Manish Gupta,manish@gmail.com,Noida,9876543226,2024-11-01,Active
+118,Kavita Sharma,kavita@gmail.com,Delhi,9876543227,2024-11-10,Active
+119,Abhishek Jain,abhishek@gmail.com,Nagpur,9876543228,2024-12-01,Active
+120,Meera Singh,meera@gmail.com,Jaipur,9876543229,2024-12-10,Active

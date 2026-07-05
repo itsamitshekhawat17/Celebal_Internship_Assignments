@@ -1,0 +1,9 @@
+Customer_ID,Customer_Name,Email,City,Phone,Join_Date,Status
+102,Rahul Sharma,rahul@gmail.com,Noida,9876543211,2024-02-01,Active
+104,Neha Verma,neha@gmail.com,Hyderabad,9876543213,2024-03-15,Active
+115,Deepak Yadav,deepak@gmail.com,Gurgaon,9876543224,2024-10-05,Active
+121,Sahil Verma,sahil@gmail.com,Pune,9876543230,2025-01-05,Active
+122,Ayesha Khan,ayesha@gmail.com,Mumbai,9876543231,2025-01-10,Active
+123,Mohit Sharma,mohit@gmail.com,Jaipur,9876543232,2025-01-15,Active
+124,Priyanshi Gupta,priyanshi@gmail.com,Delhi,9876543233,2025-01-20,Inactive
+125,Harsh Patel,harsh@gmail.com,Ahmedabad,9876543234,2025-02-01,Active

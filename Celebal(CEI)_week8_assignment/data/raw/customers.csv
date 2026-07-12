@@ -1,0 +1,207 @@
+customer_id,name,email,signup_date,segment
+1,Allison Hill,donaldgarcia@example.net,2026-04-24,New
+2,Javier Johnson,jesseguzman@example.net,2024-12-03,Regular
+3,Kimberly Robinson,lisa02@example.net,2025-05-15,Regular
+4,Daniel Gallagher,daviscolin@example.com,2025-09-25,New
+5,Monica Herrera,smiller@example.net,2025-10-06,Premium
+6,Laura Bush,stanleykendra@example.org,2026-03-28,Regular
+7,Jamie Chavez,francisco53@example.net,2025-01-22,Regular
+8,Maria Lynch,amandasanchez@example.com,2025-04-14,Regular
+9,Margaret Hawkins DDS,perezantonio@example.com,2025-04-30,New
+10,Thomas Bradley,jason76@example.net,2025-06-11,Regular
+11,David Hoffman,julie69@example.com,2025-04-01,New
+12,Brenda Snyder PhD,hernandezernest@example.net,2025-05-15,New
+13,James Ferrell,tasha01@example.net,2026-04-18,New
+14,Patricia Peterson,ryan70@example.net,2026-04-12,Regular
+15,Jonathan White,,2025-07-17,New
+16,James Martin,georgetracy@example.org,2026-05-21,Premium
+17,Sandra Parker,allenashley@example.org,2024-09-11,Regular
+18,Mr. Philip Cannon,,2025-01-20,Regular
+19,Jenny Lewis,jenniferross@example.net,2025-10-29,Regular
+20,Joseph Martinez,calebsmith@example.net,2024-12-26,Regular
+21,Benjamin Welch,,2024-08-31,Regular
+22,Michael Lewis,,2025-06-21,New
+23,Rhonda Lee,hopkinsmichael@example.com,2025-06-17,New
+24,Megan Joyce,brownjessica@example.org,2025-01-08,Regular
+25,Jerry Henderson,steven17@example.net,2024-09-20,New
+26,Kimberly Smith,housemelinda@example.org,2025-05-04,Regular
+27,Dr. Steven Martin,gallowayjoseph@example.com,2025-02-04,New
+28,Monica Logan,smoore@example.org,2026-06-19,New
+29,Kimberly Adkins,williamsthomas@example.net,2024-11-03,New
+30,Angela Lopez,leonardjoe@example.org,2026-05-30,New
+31,Lauren Williams,barnesbrandy@example.net,2025-02-27,Premium
+32,Michael Edwards,randy47@example.com,2026-05-21,Regular
+33,,jonesjason@example.com,2024-10-15,Premium
+34,Benjamin Sanchez,eric84@example.net,2026-06-30,New
+35,Kendra Contreras,sarah12@example.com,2024-10-03,Premium
+36,Juan Nelson,jenniferharris@example.net,2026-03-26,Regular
+37,Danielle Odonnell,davisrodney@example.com,2024-08-12,Regular
+38,Carlos Whitney,joycearnold@example.com,2025-08-25,New
+39,Tony Vazquez,amydavenport@example.net,2025-08-18,Premium
+40,Andrew Diaz,nolanjason@example.org,2025-11-10,Premium
+41,Justin Baxter,sarayoung@example.org,2026-06-24,Premium
+42,Sierra Johnson,kimberly63@example.com,2024-11-04,Regular
+43,Janet Williams,dwalker@example.com,2025-02-19,Regular
+44,Crystal Johnson,raymondramirez@example.org,2026-06-17,Premium
+45,Martin Ross,sheila14@example.org,2025-09-08,Regular
+46,Mrs. Linda Reed,samuel81@example.com,2026-04-29,Regular
+47,Andrew Graham,michaeljones@example.net,2026-05-15,Premium
+48,Mary Martinez,william65@example.com,2025-12-02,Regular
+49,Cheryl Ortega,lbyrd@example.net,2025-08-31,Premium
+50,Roy Torres,russellcarpenter@example.net,2025-03-03,Premium
+51,Michael Dixon,donnacampbell@example.net,2025-10-16,New
+52,Robert Potter,jeffrey32@example.org,2024-08-13,Premium
+53,Miss Patricia Gibson,jennifercruz@example.com,2025-01-05,Regular
+54,Abigail Potter,osbornejeffery@example.net,2025-07-24,New
+55,David Charles,danderson@example.net,2025-08-03,Premium
+56,Emily Fischer,usalazar@example.net,2025-05-18,New
+57,Jill Moore,wcole@example.org,2026-03-16,Regular
+58,Richard Washington,joshuajones@example.com,2024-12-29,Premium
+59,Steven Miller,jessebenson@example.net,2024-12-14,Regular
+60,Gary Owens,clarkrobert@example.net,2026-06-02,New
+61,Spencer Johnston,wsmith@example.com,2026-01-12,Premium
+62,Tiffany Barnes,,2024-08-01,New
+63,Michael Powell,marycalhoun@example.net,2025-08-05,New
+64,Leslie Alvarado,dayderek@example.com,2024-11-20,Premium
+65,Garrett Gibson,kathleen64@example.com,2025-01-11,New
+66,Alec Ryan,jeffrey10@example.org,2026-06-05,Regular
+67,Alex Hernandez,thomaswilson@example.org,2025-06-15,New
+68,Jacob Obrien,stricklandfrank@example.com,2024-09-28,Regular
+69,Eric Byrd,tsanders@example.org,2024-09-04,Regular
+70,Lori Garcia,melissa91@example.net,2026-02-03,New
+71,Jeffrey Wood,alexander67@example.org,2025-05-23,Regular
+72,Steven Stevens,ryangross@example.net,2025-01-24,Premium
+73,Kimberly Webb,lpetersen@example.com,2025-03-03,Regular
+74,Timothy Ramirez,dsanchez@example.net,2025-09-30,Regular
+75,Allen Rosales,tonykelly@example.com,2025-03-16,Regular
+76,Meredith Hill,blackjames@example.org,2025-12-19,Premium
+77,Peter Vaughn DDS,bwest@example.org,2025-02-11,Premium
+78,David Beck,thomas85@example.com,2026-07-09,Premium
+79,Heather Chavez,john13@example.com,2024-10-06,New
+80,Pamela Lopez,joannahill@example.net,2026-06-24,Premium
+81,Diane Garcia,kennethward@example.com,2024-07-21,Regular
+82,Denise Mccann,heidi27@example.org,2026-04-09,Premium
+83,Julie Alexander,tammyking@example.com,2024-10-02,Premium
+84,John Ray,hernandezlisa@example.com,2024-09-11,Regular
+85,Justin Butler,kimberlyjames@example.com,2025-02-13,New
+86,Jessica Carroll,lynchjody@example.org,2025-10-11,Premium
+87,Brad Allen,moorericky@example.net,2025-09-18,New
+88,David Mann,ojones@example.com,2026-02-06,New
+89,Mary Peck,owilson@example.net,2024-10-27,New
+90,Charles Brown,brooke94@example.com,2024-10-09,Regular
+91,Melissa Bender,mkim@example.org,2026-04-22,New
+92,Lindsey Johnson,suzannehuff@example.net,2025-09-13,New
+93,Phillip Underwood,hinesgregory@example.net,2025-10-30,Regular
+94,Catherine Richards,ecosta@example.com,2025-05-05,New
+95,Brian Martin,ssteele@example.net,2026-06-01,New
+96,Krista Gibson,johnny16@example.net,2026-03-06,Regular
+97,Sean Murray,lopezmichael@example.com,2025-10-11,Regular
+98,Christina Dunn,samuel71@example.org,2026-06-22,Premium
+99,Cynthia Moore,tranchristopher@example.org,2025-06-13,Premium
+100,Ronnie Jimenez,william46@example.com,2026-06-27,Premium
+101,Juan Reyes,michellehill@example.com,2025-03-16,New
+102,Debra Smith,mary97@example.org,2025-06-02,New
+103,Mr. Phillip Bennett,molly39@example.com,2024-12-28,New
+104,Amanda Garner,qhughes@example.net,2026-06-27,Regular
+105,Andrew Shaw MD,sawyerscott@example.net,2026-05-07,New
+106,Charles Pitts,charlesharrington@example.com,2025-03-15,Premium
+107,Marie Christian,ofinley@example.net,2026-04-20,Regular
+108,Joshua Williamson II,wendy16@example.org,2026-01-17,Regular
+109,Ashlee Jackson,rebecca05@example.org,2025-02-10,Regular
+110,Charles Schmidt,georgemiller@example.com,2025-10-07,Premium
+111,Thomas Thomas,dlittle@example.com,2025-11-10,Premium
+112,Julie Roberts,charleslandry@example.net,2025-02-14,Premium
+113,Melissa Bryant,james67@example.org,2024-12-31,Regular
+114,Laura Haney,andrew64@example.org,2025-08-28,Regular
+115,Natasha Williams,swall@example.org,2025-09-27,New
+116,Mark Oliver,courtneyberger@example.net,2024-08-08,New
+117,Amanda Diaz,christopherphillips@example.net,2025-05-10,Premium
+118,Richard Walter,alyssa42@example.com,2026-05-10,Regular
+119,Tracy Phillips,linda71@example.org,2026-01-13,New
+120,Michael Craig,zcoffey@example.net,2025-04-04,Premium
+121,Alexis Herrera,vrichardson@example.net,2025-01-18,Premium
+122,,thomasharvey@example.net,2025-03-07,New
+123,Maria Reid,tblankenship@example.net,2025-05-05,Premium
+124,Tracy Torres,pwilson@example.net,2024-10-18,Regular
+125,Michael Paul,,2026-04-19,Premium
+126,Sandra Gilbert,antonio53@example.com,2025-06-01,Regular
+127,Jack Pollard,amy50@example.com,2025-01-28,Regular
+128,Tiffany Holloway,batesdarlene@example.net,2026-06-20,New
+129,Gavin Zhang,caseyhubbard@example.org,2025-09-12,New
+130,Crystal Schroeder,ramireztracey@example.org,2025-08-09,New
+131,Ashley Delacruz,alexistyler@example.org,2025-09-14,Premium
+132,Derek Martinez,vfox@example.org,2025-06-24,New
+133,Kayla Rodriguez,soniawilliams@example.net,2025-07-27,New
+134,Victor Brown,bboone@example.net,2024-09-27,Premium
+135,Jill Lam,charlene12@example.com,2025-10-10,New
+136,Michelle James,shawn96@example.org,2026-02-10,Premium
+137,Matthew Rich,,2025-03-15,Premium
+138,Jason Davis,qedwards@example.com,2026-06-08,Regular
+139,Kara Davis,daviscolin@example.net,2025-04-09,Regular
+140,Anthony Frye,elizabeth65@example.net,2026-05-29,New
+141,,caroline51@example.net,2025-07-16,Premium
+142,John Boone,megan51@example.com,2025-09-03,Regular
+143,Sarah Villegas,lynchdiane@example.net,2025-01-22,Regular
+144,Michael Parker,michael22@example.net,2025-11-03,Regular
+145,Patrick Bonilla,reesejason@example.com,2025-06-07,Regular
+146,Eric Nguyen,,2024-08-16,New
+147,Jeremy Coleman,nperry@example.net,2024-10-02,Regular
+148,Douglas Gregory,trose@example.org,2024-12-19,New
+149,Mrs. Christine Dougherty,kathrynroberts@example.org,2024-07-16,Premium
+150,Casey James,vincentwhitaker@example.com,2024-09-01,New
+151,Amanda Smith,atkinsbarbara@example.net,2025-05-02,Regular
+152,Donna Sullivan,george97@example.net,2026-05-14,Premium
+153,Ryan Sanchez,zwarren@example.com,2026-01-07,Premium
+154,Richard Jones,schmidtjames@example.com,2025-03-24,New
+155,Maria Hernandez,thomasjames@example.net,2024-10-30,Premium
+156,Angela Bean,kmarshall@example.net,2025-06-04,New
+157,Kristy Reid,michelle52@example.com,2024-08-29,Premium
+158,Eric Hill,bellcharles@example.com,2025-06-06,New
+159,Ronald Jones,gilbertwilliam@example.com,2025-09-08,Regular
+160,Nancy Williams,marcalvarez@example.org,2026-06-11,New
+161,Robert Monroe,wagnergerald@example.org,2025-12-10,New
+162,Kelly Bishop MD,paul59@example.org,2026-02-07,Regular
+163,Andrea Davis,umitchell@example.net,2026-06-15,New
+164,Brittany Miller,sabrinacollins@example.net,2025-12-03,New
+165,Kurt Hurley,angelica52@example.net,2025-12-06,Premium
+166,Yolanda Gaines,lucasrodney@example.com,2024-07-24,New
+167,Trevor Peterson,ilee@example.org,2024-09-05,Premium
+168,Ashley Wise,stanleynancy@example.net,2024-10-14,Regular
+169,,jenniferwilliams@example.com,2025-11-17,Premium
+170,Jeremy Mitchell,pyoung@example.com,2026-06-16,Premium
+171,Stephanie Lee,smurray@example.com,2025-07-13,Regular
+172,Christopher Gonzalez,moniquewilliams@example.com,2026-04-10,Premium
+173,Ashley Singleton,mitchellkathryn@example.com,2025-06-04,Regular
+174,Sandra Davis,lisawilkerson@example.org,2025-05-10,New
+175,James Hughes,brooksanthony@example.org,2026-03-16,New
+176,Raven Taylor,samantha72@example.net,2025-06-18,Premium
+177,Susan Smith,marydunn@example.net,2025-09-29,New
+178,Ricardo Young,williamsrobert@example.net,2025-06-10,Regular
+179,Taylor Carlson,chenbailey@example.net,2024-10-23,New
+180,Lucas Allen,qlopez@example.org,2025-07-28,Regular
+181,Troy Stephens,myerstheodore@example.net,2025-04-19,New
+182,Paul Kelly,cooperjessica@example.net,2024-09-24,Premium
+183,Nicole Anderson,amy27@example.net,2025-06-25,New
+184,Chad Baldwin,mjohnson@example.org,2026-02-09,New
+185,Emily Collins,ihays@example.com,2025-01-12,New
+186,Cheryl Kelly,glennmartin@example.org,2026-02-15,Regular
+187,James Gonzales,lmorgan@example.com,2025-11-28,Regular
+188,Robert Adams,,2026-07-08,Premium
+189,Edward Garcia,donna47@example.net,2025-12-17,Regular
+190,Jeremy West,christina64@example.net,2026-06-27,New
+191,Angela Walsh,william20@example.org,2026-03-23,New
+192,Jessica Martinez,kimberlydiaz@example.com,2026-06-05,Regular
+193,Christian Cole,nathan19@example.org,2025-08-02,New
+194,Matthew Wright,johnsonjacob@example.net,2025-04-19,Premium
+195,Deborah Green,,2025-11-30,Premium
+196,Mrs. Brandy Jones MD,zosborn@example.net,2026-06-18,Regular
+197,,patricia22@example.com,2025-07-17,Regular
+198,Curtis Taylor,jjohnson@example.net,2025-04-06,Premium
+199,Kristen Salazar,jonesraymond@example.net,2025-12-18,Premium
+200,Patricia Morrow,martinezlogan@example.org,2025-06-04,Regular
+43,Janet Williams,dwalker@example.com,2025-02-19,Regular
+68,Jacob Obrien,stricklandfrank@example.com,2024-09-28,Regular
+136,Michelle James,shawn96@example.org,2026-02-10,Premium
+156,Angela Bean,kmarshall@example.net,2025-06-04,New
+109,Ashlee Jackson,rebecca05@example.org,2025-02-10,Regular
+55,David Charles,danderson@example.net,2025-08-03,Premium

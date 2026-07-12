@@ -4,7 +4,7 @@ A curated collection of data engineering and analytics assignments completed dur
 
 ---
 
-## Project Overview
+## Overview
 
 - **Purpose:** Showcase progressive weekly assignments covering data cleaning, ETL, SQL analytics, cohort analysis, and small CLI/reporting demos.
 - **Audience:** Students, reviewers, or hiring managers who want to evaluate data engineering and analytics skills.
@@ -15,14 +15,14 @@ A curated collection of data engineering and analytics assignments completed dur
 
 Top-level folders correspond to weekly assignments. Notable contents:
 
-- [Celebal(CEI)_week1_assignment](Celebal(CEI)_week1_assignment) — initial data cleaning and exploration.
-- [Celebal(CEI)_week2_assignment](Celebal(CEI)_week2_assignment) — SQL practice and analysis.
+- [Celebal(CEI)_week1_assignment](Celebal(CEI)_week1_assignment)
+- [Celebal(CEI)_week2_assignment](Celebal(CEI)_week2_assignment) 
 - [Celebal(CEI)_week3_assignment](Celebal(CEI)_week3_assignment)
 - [Celebal(CEI)_week4_assignment](Celebal(CEI)_week4_assignment)
 - [Celebal(CEI)_week5_assignment](Celebal(CEI)_week5_assignment)
 - [Celebal(CEI)_week6_assignment](Celebal(CEI)_week6_assignment)
 - [Celebal(CEI)_week7_assignment](Celebal(CEI)_week7_assignment)
-- [Celebal(CEI)_week8_assignment](Celebal(CEI)_week8_assignment) — more complete ETL pipeline examples and notebooks.
+- [Celebal(CEI)_week8_assignment](Celebal(CEI)_week8_assignment)
 
 Each folder typically includes:
 
